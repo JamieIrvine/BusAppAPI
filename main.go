@@ -9,7 +9,7 @@ import (
 )
 
 type TranslinkLiveBus struct {
-	ID                string `json:"id"`
+	ID                string `json:"ID"`
 	Operator          string `json:"Operator"`
 	JourneyIdentifier string `json:"JourneyIdentifier"`
 	DayOfOperation    string `json:"DayOfOperation"`
