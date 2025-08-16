@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  bus-api:
+    build: .
+    container_name: bus-api
+    volumes:
+      - .:/app        # Mount local source code
+      - go_cache:/go  # Cache Go modules/builds to avoid redownloading
+    working_dir: /app
+    command: go run .
+    ports:
+      - "2877:2877"
+    environment:
+      - GO111MODULE=on
+
+volumes:
+  go_cache:
