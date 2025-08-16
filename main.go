@@ -42,6 +42,15 @@ func main() {
 		c.JSON(http.StatusOK, stops)
 	})
 
+	r.GET("/routes", func(c *gin.Context) {
+		repo := database.NewRouteRepository(db)
+		stops, err := repo.GetAll()
+		if err != nil {
+			log.Fatalf(err.Error())
+		}
+		c.JSON(http.StatusOK, stops)
+	})
+
 	if err := r.Run(":2877"); err != nil {
 		log.Fatal(err)
 	}
