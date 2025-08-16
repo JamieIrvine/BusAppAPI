@@ -1,0 +1,2058 @@
+stop_id,stop_name,stop_lat,stop_lon
+700000001786,Donegall Place,0,0
+700000001661,Victoria Square Victoria Street,0,0
+700000001745,High Street,0,0
+700000016280,North Street,0,0
+700000000916,Donegall Street,0,0
+700000001153,Carlisle Circus Antrim Road,0,0
+700000001155,Lincoln Avenue,0,0
+700000001157,Kane Cottage,0,0
+700000001159,New Lodge Road,0,0
+700000001161,Duncairn Gardens,0,0
+700000001165,Atlantic Avenue,0,0
+700000001167,Waterworks,0,0
+700000001169,Richmond Lane,0,0
+700000001171,Willowbank Gardens,0,0
+700000001173,Kansas Avenue,0,0
+700000001175,Salisbury Avenue,0,0
+700000001177,Firmount,0,0
+700000001178,Chichester Avenue,0,0
+700000001180,North Circular Road,0,0
+700000001182,Belfast Castle,0,0
+700000001184,Donegall Park Avenue,0,0
+700000001186,Downview Avenue,0,0
+700000001189,Downview Lodge,0,0
+700000001191,Gray's Lane,0,0
+700000001193,Serpentine Road,0,0
+700000001195,Ben Madigan Park,0,0
+700000001197,Kincraig Park,0,0
+700000001199,Tree Tops,0,0
+700000001201,Hazelwood Park,0,0
+700000001203,Bellevue Park,0,0
+700000001205,Belfast Zoo,0,0
+700000001207,Bellevue Bridge,0,0
+700000001209,Elmfield,0,0
+700000001211,Church Road,0,0
+700000001213,Glengormley Centre,0,0
+700000001533,Portland Avenue,0,0
+700000001534,Glengormley Pavilion,0,0
+700000001535,Inniscoole Park,0,0
+700000001536,St Mary's On The Hill Primary School,0,0
+700000001537,St Mary's On The Hill,0,0
+700000001538,Burnthill Road,0,0
+700000001377,Carnhill Road,0,0
+700000001544,Carnmoney Primary School,0,0
+700000001545,Carnvue,0,0
+700000001546,Ballyduff Road,0,0
+700000001547,Beverley Avenue,0,0
+700000001474,Beverley Shops,0,0
+700000001475,Fairview Gardens,0,0
+700000001476,Glenkyle,0,0
+700000001477,Fairview Terminus,0,0
+700000001465,Forthill Drive,0,0
+700000001466,Ballyduff,0,0
+700000001467,Forthill Green,0,0
+700000001480,Ballyfore Park,0,0
+700000001481,Dunkeld Gardens,0,0
+700000001440,Three Mile Water,0,0
+700000001441,Bridge Road,0,0
+700000001442,Aspen Park,0,0
+700000001443,Cherrylands,0,0
+700000001444,Hillcrest Villas,0,0
+700000001445,Glenville,0,0
+700000001558,Hightown Road,0,0
+700000001553,Hightown Court,0,0
+700000001554,Hightown Park,0,0
+700000001555,Edmund Rice College,0,0
+700000001566,Rosehall,0,0
+700000014768,Enterprise Way,0,0
+700000001567,Royal Mail,0,0
+700000001568,Ballyrobert Garage,0,0
+700000001569,Hightown Avenue,0,0
+700000001570,Central Park,0,0
+700000001571,Mallusk Road,0,0
+700000001572,McKinney Road,0,0
+700000001576,Academy,0,0
+700000001577,Parkmount,0,0
+700000001578,Old Mill Crescent,0,0
+700000001579,Craigarogan Quarry,0,0
+700000001580,Bernice Road,0,0
+700000001581,Fort Road,0,0
+700000001582,Oakview,0,0
+700000001583,Roughfort Turning Circle,0,0
+700000001215,Harmin Parade,0,0
+700000001217,Rose Park,0,0
+700000001219,Burney's Lane,0,0
+700000014740,Jubilee Way,0,0
+700000014734,Northcott Shopping Centre,0,0
+700000016062,Northcott,0,0
+700000001524,Glenvarna Walk,0,0
+700000001525,Carwood Avenue,0,0
+700000001526,St Anne's Crescent,0,0
+700000001485,Ballycraigy Road,0,0
+700000001486,Ballyearl Drive,0,0
+700000001487,Ballyearl Terrace,0,0
+700000001488,Milewater Court,0,0
+700000001489,Carn Court,0,0
+700000001491,Carn Green,0,0
+700000001492,Campbell Road,0,0
+700000001473,Beverley Road,0,0
+700000014731,Great George's Street,0,0
+700000014733,Henry Street,0,0
+700000001145,North City Business Centre,0,0
+700000001147,Adam Street,0,0
+700000001149,Edlingham Street,0,0
+700000001151,Halliday's Road,0,0
+700000001520,Glengormley Park,0,0
+700000001522,Hillview Park,0,0
+700000001523,Queens Park,0,0
+700000001493,Mossley Pavilion,0,0
+700000001495,The Glade,0,0
+700000001496,Uppertown Drive,0,0
+700000001497,Mossley West Train Station [bus stop],0,0
+700000001490,Manse Way,0,0
+700000001220,Swanston Road,0,0
+700000001222,Sandyknowes,0,0
+700000001559,Scullions Road,0,0
+700000015290,Mayfield Link,0,0
+700000015291,Alderley Place,0,0
+700000015292,Mayfield High Street,0,0
+700000015293,Aylesbury Avenue,0,0
+700000015302,Aylesbury Manor,0,0
+700000015294,Aylesbury Manor,0,0
+700000015295,Dermont Road,0,0
+700000015296,Blackrock Square,0,0
+700000001482,Sandyknowes Park,0,0
+700000001483,Sherwood Parks,0,0
+700000001484,Glencroft Road,0,0
+700000001456,Ballyduff Road,0,0
+700000001457,Ballyduff Walk,0,0
+700000001459,Ballyduff Gardens,0,0
+700000001460,Ballyfore Park,0,0
+700000001461,Forthill Park,0,0
+700000001462,Forthill Green,0,0
+700000001463,Ballyduff,0,0
+700000001464,Forthill Drive,0,0
+700000001469,Glenkyle,0,0
+700000001470,Fairview Gardens,0,0
+700000001471,Beverley Shops,0,0
+700000001548,Beverley Avenue,0,0
+700000001549,Waverley Park,0,0
+700000001550,Ballyduff Road,0,0
+700000001551,Carnvue,0,0
+700000001552,Carnmoney Primary School,0,0
+700000001390,Carnhill Road,0,0
+700000001539,Burnthill Road,0,0
+700000001540,St Mary's On The Hill Primary School,0,0
+700000001541,Coole Park,0,0
+700000001542,Glengormley Pavilion,0,0
+700000001543,Portland Avenue,0,0
+700000001235,Glengormley Centre,0,0
+700000001237,Church Road,0,0
+700000001239,Elmfield,0,0
+700000001245,O'Neill Road,0,0
+700000001247,Belfast Zoo,0,0
+700000001249,Floral Road,0,0
+700000001251,Floral Park,0,0
+700000001253,Bellevue Park,0,0
+700000001255,Hazelwood Park,0,0
+700000001257,Tree Tops,0,0
+700000001259,Thronemount,0,0
+700000001261,Ben Madigan Park,0,0
+700000001263,Serpentine Road,0,0
+700000001267,Downview Lodge,0,0
+700000001269,Downview Avenue,0,0
+700000001271,Donegall Park Avenue,0,0
+700000001273,Belfast Castle,0,0
+700000001275,North Circular Road,0,0
+700000001277,Chichester Avenue,0,0
+700000001279,Firmount,0,0
+700000001281,Salisbury Avenue,0,0
+700000001283,Glandore Avenue,0,0
+700000001285,Hopefield Avenue,0,0
+700000001287,Alexandra Park Avenue,0,0
+700000001289,Richmond Lane,0,0
+700000001291,Waterworks,0,0
+700000001293,Atlantic Avenue,0,0
+700000001295,Duncairn Gardens,0,0
+700000001297,New Lodge Road,0,0
+700000001299,Dawson Street,0,0
+700000001301,Carlisle Circus Antrim Road,0,0
+700000001048,Carlisle Circus Clifton Street,0,0
+700000001050,Clifton House,0,0
+700000001052,Donegall Street,0,0
+700000001516,Central Library,0,0
+700000001422,CastleCourt,0,0
+700000017420,Donegall Place,0,0
+700000001447,Glenville,0,0
+700000001413,Hillcrest Villas,0,0
+700000001414,Cherrylands,0,0
+700000001415,Aspen Park,0,0
+700000001472,Beverley Road,0,0
+700000001502,Campbell Road,0,0
+700000001503,Manse Way Turning Circle,0,0
+700000001504,Carn Court,0,0
+700000001505,Carn Crescent,0,0
+700000001506,Milewater Drive,0,0
+700000001508,Ballyearl Turning Circle,0,0
+700000001509,Ballyearl Drive,0,0
+700000001510,Ballycraigy Road,0,0
+700000001527,St Anne's Crescent,0,0
+700000001528,Ladysmith Lane,0,0
+700000014735,Northcott Shopping Centre,0,0
+700000014741,Jubilee Way,0,0
+700000001229,Burney's Lane,0,0
+700000001231,Rose Park,0,0
+700000001233,Harmin Parade,0,0
+700000014769,Enterprise Way,0,0
+700000001565,Rosehall,0,0
+700000015280,Hightown Park,0,0
+700000001556,Hightown Court,0,0
+700000001557,Hightown Road,0,0
+700000001498,Mossley Mill,0,0
+700000001500,The Villas,0,0
+700000001501,Lakeview Grove,0,0
+700000001529,Queens Park,0,0
+700000001530,Hillview Park,0,0
+700000001532,Glengormley Park,0,0
+700000001135,Duncairn Gardens,0,0
+700000001137,Halliday's Road,0,0
+700000001139,Edlingham Street,0,0
+700000001141,Adam Street,0,0
+700000001143,North City Business Centre,0,0
+700000014732,Henry Street,0,0
+700000014730,Great George's Street,0,0
+700000001584,Fort Road,0,0
+700000001585,Craigarogan Road,0,0
+700000001586,Craigarogan Quarry,0,0
+700000001587,Old Mill Crescent,0,0
+700000001588,Parkmount,0,0
+700000001589,Hydepark Presbyterian Church,0,0
+700000001590,Mallusk Road,0,0
+700000001591,Central Park,0,0
+700000001562,Hightown Avenue,0,0
+700000001563,Mallusk Drive,0,0
+700000001564,Ballyrobert Garage,0,0
+700000015297,Aylesbury Manor,0,0
+700000015298,Aylesbury Avenue,0,0
+700000015299,Alderley Place,0,0
+700000015300,Mayfield Link,0,0
+700000001560,Scullions Road,0,0
+700000001224,Sandyknowes,0,0
+700000001226,Swanston Park,0,0
+700000001511,Ballyhenry Presbyterian Church,0,0
+700000001512,Ballyhenry Avenue,0,0
+700000001513,Sandyknowes Park,0,0
+700000001430,Donegall Place,0,0
+700000016279,North Street,0,0
+700000001514,Central Library,0,0
+700000001519,Ulster University Belfast,0,0
+700000000536,Little Patrick Street,0,0
+700000000538,York Street,0,0
+700000000540,St Paul's,0,0
+700000000542,Mountcollyer Road,0,0
+700000000544,Grove Place,0,0
+700000000546,Bute Street,0,0
+700000000548,Skegoneill Avenue,0,0
+700000000550,Seaview,0,0
+700000000552,York Park,0,0
+700000000554,Fortwilliam Crescent,0,0
+700000000556,Fortwilliam,0,0
+700000000558,Mount Vernon House,0,0
+700000000560,Lowwood Park,0,0
+700000000562,Loughside,0,0
+700000000564,Donegall Park Avenue,0,0
+700000000566,Shore Crescent,0,0
+700000000568,Parkmount,0,0
+700000000570,Grays Lane,0,0
+700000000572,Greencastle,0,0
+700000001303,Catherine Court,0,0
+700000001305,Hazelwood College,0,0
+700000001307,Serpentine Road,0,0
+700000001309,Vandyck Gardens,0,0
+700000001311,White City,0,0
+700000001313,Upper Whitewell,0,0
+700000001315,Throne Centre,0,0
+700000001317,Fairyknowe Park,0,0
+700000001319,Bellevue Park,0,0
+700000001478,Fairview Terminus,0,0
+700000000784,Abbeycentre,0,0
+700000000786,Longlands Road,0,0
+700000000774,Arthur Road,0,0
+700000000574,M2 Onslip,0,0
+700000000576,Bawnmore,0,0
+700000000578,Whitehouse,0,0
+700000001385,Carnview Road,0,0
+700000001386,Waverley Gardens,0,0
+700000001592,Merville Garden Village,0,0
+700000001593,Merville Mews,0,0
+700000001405,Abbey Park,0,0
+700000001406,Rush Park,0,0
+700000001407,Green End Doagh Road,0,0
+700000001408,Abbot's Cross,0,0
+700000001409,Heather Park,0,0
+700000001410,Cloughfern Corner,0,0
+700000001411,Knockenagh Avenue,0,0
+700000001412,King's Road,0,0
+700000003613,Abbey Green,0,0
+700000003798,White Church,0,0
+700000003747,Jennings Park,0,0
+700000003748,Hollybank Court,0,0
+700000003749,Hollybank Primary School,0,0
+700000003750,Seagoe Gardens,0,0
+700000003751,Hollybank Way,0,0
+700000003752,Devenish Drive,0,0
+700000003772,Rathcoole Drive,0,0
+700000003773,Armoy Gardens,0,0
+700000003774,Avonlea Gardens,0,0
+700000003775,Belmore Gardens,0,0
+700000003776,Clonbeg Drive,0,0
+700000003777,Clonmore Walk,0,0
+700000003781,Carnreagh Bend,0,0
+700000003782,Rathcoole Primary School,0,0
+700000003783,Rathcoole Leisure Park,0,0
+700000003784,Derrycoole Walk,0,0
+700000003785,East Way,0,0
+700000003788,Green End,0,0
+700000001404,Loughshore Manor,0,0
+700000001356,Northern Regional College,0,0
+700000003531,Station Road,0,0
+700000003532,Dillons Avenue,0,0
+700000003533,Whiteabbey Presbyterian Church,0,0
+700000015234,Chestnut Cottages,0,0
+700000015235,Glenbroome Park,0,0
+700000015236,Coolemoyne Park,0,0
+700000015237,Glencree Park,0,0
+700000015238,Jordanstown Train Station [bus stop],0,0
+700000015239,Hampton Court,0,0
+700000001340,Abbey Retail Park,0,0
+700000001342,Valley Retail Park,0,0
+700000001344,Valley Leisure Centre,0,0
+700000003705,Lacken Walk,0,0
+700000003706,Lacken Gardens,0,0
+700000003707,Tulleevin Walk,0,0
+700000003708,Renagh Park,0,0
+700000003709,Altnacreeve Park,0,0
+700000001321,Bellevue Park,0,0
+700000001323,Fairyknowe Park,0,0
+700000001324,Throne Centre,0,0
+700000001843,Arthur Bridge,0,0
+700000001326,Upper Whitewell,0,0
+700000001328,White City,0,0
+700000001330,Vandyck Gardens,0,0
+700000001332,Veryan Gardens,0,0
+700000001334,Serpentine Road,0,0
+700000001336,Catherine Court,0,0
+700000000584,Grays Lane,0,0
+700000000586,Parkmount,0,0
+700000000588,Shore Crescent,0,0
+700000000590,Donegall Park Avenue,0,0
+700000000592,Loughside,0,0
+700000000594,Lowwood Park,0,0
+700000000596,Mount Vernon,0,0
+700000000598,Fortwilliam Crescent,0,0
+700000000600,York Drive,0,0
+700000000604,Seaview,0,0
+700000000606,Skegoneill Avenue,0,0
+700000000608,Fife Street,0,0
+700000000610,Ivan Street,0,0
+700000000612,Mountcollyer Road,0,0
+700000000616,St Paul's,0,0
+700000000618,York Street Station [bus stop],0,0
+700000001418,Dock Street,0,0
+700000001419,Nelson Street Bridge,0,0
+700000001420,Dunbar Link,0,0
+700000001515,Ulster University Belfast,0,0
+700000003753,Seagoe Gardens,0,0
+700000003754,Hollybank Primary School,0,0
+700000003755,Hollybank Court,0,0
+700000003796,Monkstown Baptist Church,0,0
+700000003797,White Church,0,0
+700000003683,Jordanstown Road,0,0
+700000001448,King's Road,0,0
+700000001449,Knockenagh Avenue,0,0
+700000001450,Cloughfern Corner,0,0
+700000001451,Heather Park,0,0
+700000001452,Abbot's Cross,0,0
+700000001453,Green End Doagh Road,0,0
+700000003789,Green End,0,0
+700000003790,East Way,0,0
+700000003791,Derrycoole Park,0,0
+700000003792,Braden Glen,0,0
+700000003793,Rathcoole Primary School,0,0
+700000003794,Carnreagh Bend,0,0
+700000003804,Clonmore Walk,0,0
+700000014718,Clonbeg Drive,0,0
+700000003806,Rathcoole Youth Centre,0,0
+700000003807,Avonlea Gardens,0,0
+700000003808,Armoy Gardens,0,0
+700000003809,Rathcoole Drive,0,0
+700000001595,Merville Mews,0,0
+700000001596,Merville Garden Village,0,0
+700000000580,Whitehouse,0,0
+700000000582,Bawnmore,0,0
+700000001387,Waverley Gardens,0,0
+700000000776,McIlroy Court,0,0
+700000000778,Longlands Road,0,0
+700000000780,Abbeycentre,0,0
+700000000782,Abbeycentre,0,0
+700000001454,Rush Park,0,0
+700000001455,Abbey Park,0,0
+700000015240,Mount Pleasant,0,0
+700000015241,Jordanstown Train Station [bus stop],0,0
+700000015242,Coolemoyne Park,0,0
+700000015243,Wood Green,0,0
+700000003610,Circular Road,0,0
+700000015195,Whiteabbey Presbyterian Church,0,0
+700000003611,Dillons  Avenue,0,0
+700000003612,Station Road,0,0
+700000001401,Northern Regional College,0,0
+700000001402,Loughshore Manor,0,0
+700000003778,West Crescent,0,0
+700000001352,Valley Retail Park,0,0
+700000001354,Abbey Retail Park,0,0
+700000001662,T & G Transport House,0,0
+700000001621,Great Patrick Street,0,0
+700000001622,Corporation Square,0,0
+700000001623,Clarendon Dock,0,0
+700000001624,Pilot Street,0,0
+700000000620,Brougham Street,0,0
+700000000622,Upper Canning Street,0,0
+700000000624,Cosgrave Street,0,0
+700000000626,Cosgrave Heights,0,0
+700000000628,Newington Pres Church,0,0
+700000000630,Lawther Street,0,0
+700000000632,Atlantic Avenue,0,0
+700000000634,Limestone Road,0,0
+700000000636,Waterworks,0,0
+700000000638,Richmond Square,0,0
+700000000640,Rosemount Gardens,0,0
+700000000642,Marsden Terrace,0,0
+700000015357,Cedar Avenue,0,0
+700000000646,Madison Avenue,0,0
+700000000648,Westland Road,0,0
+700000000650,Inver Avenue,0,0
+700000000652,Tivoli Gardens,0,0
+700000014742,Sunningdale Park,0,0
+700000000654,Upper Cavehill Road,0,0
+700000000656,Sunningdale Park North,0,0
+700000000658,Kilcoole Park,0,0
+700000014743,Belfast Boys' Model School,0,0
+700000000660,Carr's Glen,0,0
+700000000700,Mountcollyer Road,0,0
+700000000702,Castleton Avenue,0,0
+700000000704,Esther Street,0,0
+700000000706,Elim Christian Centre,0,0
+700000000708,Jellicoe Avenue,0,0
+700000000710,Grove Playing Field,0,0
+700000000712,Skegoneill Drive,0,0
+700000000714,Fortwilliam Parade,0,0
+700000000716,Somerton Mews,0,0
+700000000718,Fortwilliam Park,0,0
+700000000720,Dominican College,0,0
+700000000722,Somerton Road,0,0
+700000000724,Landsdowne Road,0,0
+700000000726,Glastonbury Avenue,0,0
+700000000728,Castle Avenue,0,0
+700000014985,Donegall Park Avenue,0,0
+700000000730,Castle Gardens,0,0
+700000000732,Downview Avenue,0,0
+700000000734,Waterloo Gardens,0,0
+700000014738,Innisfayle Road,0,0
+700000014739,Waterloo Gardens,0,0
+700000014727,Castle Gardens,0,0
+700000014728,Innisfayle Gardens,0,0
+700000000662,Belfast Boys' Model School,0,0
+700000000664,Kilcoole Park,0,0
+700000000666,Slievedarragh Park,0,0
+700000000668,Shandarragh Park,0,0
+700000000670,Henderson Avenue,0,0
+700000000672,Inver Avenue,0,0
+700000000674,Charnwood Avenue,0,0
+700000000676,Indiana Avenue,0,0
+700000000678,Kansas Avenue,0,0
+700000000680,Marsden Gardens,0,0
+700000000682,Rosemount Gardens,0,0
+700000000684,Camberwell Terrace,0,0
+700000000686,Atlantic Avenue,0,0
+700000000688,Currie Primary School,0,0
+700000000690,Cosgrave Heights,0,0
+700000000692,Mervue Street,0,0
+700000000694,Upper Canning Street,0,0
+700000000696,Brougham Street,0,0
+700000001619,Pilot Street,0,0
+700000001620,Clarendon Dock,0,0
+700000001625,Corporation Square,0,0
+700000000736,Innisfayle Road,0,0
+700000000738,Castle Avenue,0,0
+700000000740,Glastonbury Avenue,0,0
+700000000742,Landsdowne Road,0,0
+700000000744,Somerton Road,0,0
+700000000746,Dominican College,0,0
+700000000748,Fortwilliam Park,0,0
+700000000750,Somerton Mews,0,0
+700000000752,Fortwilliam Parade,0,0
+700000000754,Skegoneil Drive,0,0
+700000000756,Grove Playing Field,0,0
+700000000758,Jellicoe Avenue,0,0
+700000000760,Elim Christian Centre,0,0
+700000015358,Gainsborough Drive,0,0
+700000000762,Esther Street,0,0
+700000000764,Castleton Avenue,0,0
+700000000766,Mountcollyer Road,0,0
+700000014737,Innisfayle Gardens,0,0
+700000001804,Donegall Square West,0,0
+700000015150,Victoria Square Chichester Street,0,0
+700000016212,Queens Square,0,0
+700000000003,Station Street,0,0
+700000000005,Short Strand (Newtownards Road),0,0
+700000000007,Tower Street,0,0
+700000000009,Templemore Ave [N'ards Road],0,0
+700000000011,Dee Street,0,0
+700000000013,Ribble Street,0,0
+700000000019,Holywood Arches (Holywood Road),0,0
+700000000021,Dundela Park,0,0
+700000000023,Parkgate Avenue,0,0
+700000000027,Larkfield,0,0
+700000000029,Palmerston Road,0,0
+700000000031,Palmerston Park,0,0
+700000000033,Station Road,0,0
+700000000035,Sydenham Station,0,0
+700000000037,Inverary Drive,0,0
+700000000039,Inverary Playing Fields,0,0
+700000000041,Inverleith Drive,0,0
+700000000043,Carolhill,0,0
+700000000045,Ashfield Boys,0,0
+700000000047,Ashfield Girls,0,0
+700000000049,Blanchflower Park,0,0
+700000000051,Tillysburn Park,0,0
+700000014749,Knocknagoney Tesco,0,0
+700000000053,Knocknagoney Road,0,0
+700000000055,Knocknagoney Primary,0,0
+700000000059,School Court,0,0
+700000000121,Waterfront,0,0
+700000016222,Lanyon Place [bus stop],0,0
+700000016223,Albert Bridge,0,0
+700000000129,Templemore Avenue,0,0
+700000000133,Avoniel,0,0
+700000000015,Connswater,0,0
+700000000137,Strandtown,0,0
+700000000139,Strand Cinema,0,0
+700000000141,Park Avenue,0,0
+700000000143,St Marks,0,0
+700000000145,Clonaver,0,0
+700000000147,Tudordale,0,0
+700000000057,School Court,0,0
+700000000061,Knocknagoney Primary,0,0
+700000000063,Parklands,0,0
+700000000065,Tillysburn Park,0,0
+700000000067,Tillysburn Park,0,0
+700000000069,Templeton House,0,0
+700000000071,Ashfield Girls,0,0
+700000000073,Ashfield Boys,0,0
+700000000075,Carolhill,0,0
+700000000077,Inverary Avenue,0,0
+700000000079,Inverleith Drive,0,0
+700000000081,Inverary Playing Fields,0,0
+700000000083,Sydenham Station,0,0
+700000000085,Station Road,0,0
+700000000087,Palmerston Road,0,0
+700000000089,Larkfield Road,0,0
+700000000091,Larkfield,0,0
+700000000093,Strandburn Drive,0,0
+700000000095,Parkgate Avenue,0,0
+700000000097,Glendale Court,0,0
+700000000099,Connsbrook Avenue,0,0
+700000000101,Holywood Arches (Holywood Road),0,0
+700000000105,Hunt Street,0,0
+700000000107,Dee Street,0,0
+700000000109,Templemore Ave [N'ards Road],0,0
+700000000111,Tower Street,0,0
+700000000113,Bryson Street,0,0
+700000000115,Short Strand (Newtownards Road),0,0
+700000000117,Bridge End,0,0
+700000000119,Oxford Street,0,0
+700000001634,St Georges Market,0,0
+700000001635,May Street [St George's Market],0,0
+700000001636,May Street [City Hall],0,0
+700000001802,Donegall Square West,0,0
+700000000155,Tudordale,0,0
+700000000173,Station Road,0,0
+700000000175,Clonaver,0,0
+700000000177,St Marks,0,0
+700000000179,Park Avenue,0,0
+700000015320,Strand Cinema,0,0
+700000000181,Strandtown,0,0
+700000000103,Connswater,0,0
+700000000187,Avoniel,0,0
+700000000189,Templemore Avenue,0,0
+700000016271,Albert Bridge,0,0
+700000000199,Lanyon Place Station [Glider],0,0
+700000001831,Holywood Exchange,0,0
+700000016066,Holywood Exchange,0,0
+700000015132,Holywood Exchange Ikea,0,0
+700000000149,Glendhu Manor,0,0
+700000000151,Glenluce Drive,0,0
+700000000153,Upper Garnerville Road,0,0
+700000001845,Knocknagoney Drive,0,0
+700000014744,Circular Road,0,0
+700000014745,Orchard Lane,0,0
+700000014746,CIYMS,0,0
+700000014747,Cairnburn Road,0,0
+700000000770,Cairnburn Gardens No 36,0,0
+700000000773,Old Holywood Road (Kennelbridge) Outside No 116,0,0
+700000001844,Motelands,0,0
+700000014725,Garnerville Road,0,0
+700000014759,Knocknagoney Road,0,0
+700000016007,Glendhu Park,0,0
+700000016008,Glenluce Drive,0,0
+700000016009,Glendhu Manor,0,0
+700000000157,Quarry Road,0,0
+700000000159,Glenmillan,0,0
+700000000161,Old Holywood Road (Kennelbridge),0,0
+700000000163,Cairnburn Road,0,0
+700000000165,Cairnburn Allotments,0,0
+700000000167,C I Y M S Grounds,0,0
+700000000169,Orchard Lane,0,0
+700000000171,Circular Road,0,0
+700000000201,Sydenham Drive,0,0
+700000000203,Ranfurly Drive,0,0
+700000000205,Belmont Road,0,0
+700000000207,Clonallon Gardens,0,0
+700000000209,Clonallon Court,0,0
+700000000211,Belmont Church Road,0,0
+700000000213,Pine Lodge,0,0
+700000000215,Pirrie Road,0,0
+700000000219,Campbell College,0,0
+700000000221,Schomberg Avenue,0,0
+700000000513,Massey Green,0,0
+700000000223,Massey Avenue,0,0
+700000000225,Netherleigh Mews,0,0
+700000000227,Castlehill Road,0,0
+700000000229,Cloverhill Gardens,0,0
+700000000231,Massey Avenue Gates,0,0
+700000000233,Parliament Buildings,0,0
+700000000235,I T Division,0,0
+700000000237,Castle Buildings,0,0
+700000017474,Stormont Sports Ground,0,0
+700000000243,Craigantlet Buildings,0,0
+700000000867,Stoney Road,0,0
+700000000917,Comber Road,0,0
+700000000921,Ulster Hospital,0,0
+700000000241,Dundonald House,0,0
+700000000863,Netherleigh Park,0,0
+700000000859,Castlehill Park,0,0
+700000000907,Stormont,0,0
+700000000909,Summerhill Avenue,0,0
+700000000911,Rosepark,0,0
+700000000913,Dundonald House,0,0
+700000000923,Comber Road,0,0
+700000000927,Ardcarn,0,0
+700000000929,Rosepark,0,0
+700000000931,Summerhill Avenue,0,0
+700000000935,Stormont,0,0
+700000000855,Castlehill Road,0,0
+700000000857,Campbell College Grounds,0,0
+700000000861,Netherleigh Park,0,0
+700000000255,Castlehill,0,0
+700000000257,Massey Green,0,0
+700000000259,Old Holywood Road,0,0
+700000000261,Schomberg Avenue,0,0
+700000000263,Campbell College,0,0
+700000000265,Belmont Drive,0,0
+700000000267,Strathearn Court,0,0
+700000000269,Belmont Primary School,0,0
+700000000271,Belmont Park,0,0
+700000000273,Edenville Crescent,0,0
+700000000275,Sydenham Drive,0,0
+700000000251,Massey Avenue Gates,0,0
+700000000253,Massey Avenue,0,0
+700000000239,Sports Ground,0,0
+700000000245,Castle Buildings,0,0
+700000000247,Dept of Agriculture,0,0
+700000000249,Parliament Buildings,0,0
+700000015369,Ballybeen Enler Centre,0,0
+700000001694,Dungoyne Park,0,0
+700000001695,Craigleith Drive,0,0
+700000001696,Cairnsmore Avenue,0,0
+700000001697,Ballybeen Culross Drive,0,0
+700000001698,Ballybeen Cairnsmore Avenue,0,0
+700000001699,Ardmore Avenue,0,0
+700000001700,Beauly Drive,0,0
+700000001701,Gleneagles Gardens,0,0
+700000001702,Ballybeen Rank Road,0,0
+700000001703,Inchmarnock Drive,0,0
+700000001704,Drumadoon Drive,0,0
+700000001692,Davarr Avenue,0,0
+700000016211,Robbs Road,0,0
+700000016011,Dundonald Park & Ride,0,0
+700000002415,Davarr Avenue,0,0
+700000002416,Dundonald High School,0,0
+700000002417,Carrowreagh Road,0,0
+700000015874,Old Mill Grove,0,0
+700000015875,Old Mill Dale,0,0
+700000017428,Coopers Mill Row,0,0
+700000017429,Coopers Mill Park,0,0
+700000017505,Unknown,0,0
+700000017430,Millmount Road,0,0
+700000016165,Millmount Terminus,0,0
+700000016142,Millmount Village,0,0
+700000017431,Millmount Road,0,0
+700000017526,Unknown,0,0
+700000017432,Coopers Mill Park,0,0
+700000015876,Coopers Mill Park,0,0
+700000015877,Old Mill Park,0,0
+700000015878,Old Mill Dale,0,0
+700000015879,Old Mill Close,0,0
+700000002425,Quarry Inn,0,0
+700000002426,Carrowreagh Road,0,0
+700000002427,Dundonald High School,0,0
+700000001707,Robbs Road,0,0
+700000001691,Drumadoon Drive,0,0
+700000017477,Drumadoon Drive,0,0
+700000000768,The Flats,0,0
+700000000501,Mount Conference Centre,0,0
+700000000503,Woodstock Link,0,0
+700000000775,Pottinger Street,0,0
+700000000777,Calvin Street,0,0
+700000000779,Trillick Street,0,0
+700000000781,Avoniel Road,0,0
+700000000783,Elmgrove,0,0
+700000000785,Bloomfield Mill,0,0
+700000000787,St Donards,0,0
+700000000789,Lichfield Avenue,0,0
+700000000791,Bloomfield,0,0
+700000000793,North Road,0,0
+700000000877,North Road (Upper Newtownards Road),0,0
+700000001823,Ballyhackamore,0,0
+700000000895,Greenwood Park,0,0
+700000000899,Knock Road (Upper Newtownards Road),0,0
+700000001839,Knockdene,0,0
+700000001714,Towell House,0,0
+700000001715,Barnett's Road,0,0
+700000001716,Kings Square,0,0
+700000001717,Abbey Road,0,0
+700000014513,Kingsway Park,0,0
+700000014514,Kilmory Gardens,0,0
+700000014515,Melfort Drive,0,0
+700000014605,Leven Drive,0,0
+700000014521,Leven Close,0,0
+700000014522,Lochinver Drive,0,0
+700000014523,Lothian Avenue,0,0
+700000014517,Lowland Avenue,0,0
+700000001719,Tullycarnet Church,0,0
+700000001720,Dundonald Ice Bowl,0,0
+700000014701,East Link Road (Hanwood Ave),0,0
+700000014702,East Link Road,0,0
+700000001726,Galway Drive,0,0
+700000000815,Hewitt Parade,0,0
+700000000819,Kings Road,0,0
+700000000821,Clara Park,0,0
+700000014761,Clara Road Entrance,0,0
+700000000853,Clarawood Park,0,0
+700000014764,Clarawood Grove,0,0
+700000000847,Clarawood Flats,0,0
+700000000839,Knock Grove,0,0
+700000000627,Knockvale Park,0,0
+700000000629,Marie Curie Centre,0,0
+700000000631,Knock Headquarters,0,0
+700000001741,Kingsway,0,0
+700000001742,Kingsway Park,0,0
+700000001743,Our Lady & St Patricks,0,0
+700000000715,Briarwood Park,0,0
+700000000717,Lower Braniel Road,0,0
+700000001826,Braniel,0,0
+700000000697,Braniel,0,0
+700000001721,East Link,0,0
+700000001722,Coronation Park,0,0
+700000002782,Millars Forge,0,0
+700000016070,Millmount,0,0
+700000001803,Donegall Square West,0,0
+700000000699,Lower Braniel Road,0,0
+700000000701,Briarwood Park,0,0
+700000001744,Gilnahirk Rise,0,0
+700000001754,Our Lady & St Patricks,0,0
+700000001755,Kingsway Park,0,0
+700000001756,Cherryvalley,0,0
+700000001757,Barnett's Road,0,0
+700000001758,Towell House,0,0
+700000000633,Knock Headquarters,0,0
+700000000635,Marie Curie Centre,0,0
+700000000637,Knockvale Park,0,0
+700000000843,Clarawood Shops,0,0
+700000000845,Clarawood Flats,0,0
+700000000849,Clarawood Grove,0,0
+700000000851,Clarawood Park,0,0
+700000014763,Clara Road,0,0
+700000000831,Clara Park,0,0
+700000000833,Kings Road,0,0
+700000000837,Hewitt Parade,0,0
+700000000881,Ballyhackamore,0,0
+700000000795,Cyprus Gardens,0,0
+700000000797,Orangefield Road,0,0
+700000000799,Bloomfield Roundabout,0,0
+700000000801,Lichfield Avenue,0,0
+700000000803,Holycroft Avenue,0,0
+700000000805,Abetta Parade,0,0
+700000000807,Elmgrove,0,0
+700000000809,Clara Street,0,0
+700000000811,Trillick Street,0,0
+700000000813,Calvin Street,0,0
+700000000585,Cherryville Street,0,0
+700000000587,Woodstock Lodge,0,0
+700000014699,East Link Road,0,0
+700000001732,East Link,0,0
+700000014700,Hanwood Heights,0,0
+700000001735,Dundonald Ice Bowl,0,0
+700000001736,Tullycarnet Primary School,0,0
+700000014518,Alford Park,0,0
+700000014524,Lochinver Drive,0,0
+700000014525,Leven Crescent,0,0
+700000014526,Leven Place,0,0
+700000014519,Melfort Drive,0,0
+700000014520,Kilmory Gardens,0,0
+700000014756,Kingsway Park,0,0
+700000001738,Abbey Road,0,0
+700000001740,Kings Square,0,0
+700000001827,Knockdene,0,0
+700000000943,Knock Road (Upper Newtownards Road),0,0
+700000000947,Greenwood Park,0,0
+700000000949,Astoria Gardens,0,0
+700000003234,Millars Forge,0,0
+700000001733,Coronation Park,0,0
+700000001734,East Link,0,0
+700000000641,Mountpottinger Link,0,0
+700000000643,Madrid Street,0,0
+700000000645,Castlereagh Street Junction,0,0
+700000000647,Paxton Street,0,0
+700000000649,John Long's Corner,0,0
+700000000651,Clara Street,0,0
+700000000653,Channing Street,0,0
+700000000655,Loopland,0,0
+700000000657,Loopland Park,0,0
+700000000659,Ladas Drive,0,0
+700000000663,Orby Place,0,0
+700000000665,Houston Park,0,0
+700000000667,Houston Park,0,0
+700000000669,Orby Street,0,0
+700000000671,Montgomery Road,0,0
+700000000673,Clonduff,0,0
+700000000675,Brentwood Park,0,0
+700000014754,Glenview Park,0,0
+700000000677,Ballygowan Road,0,0
+700000000679,Glen Road,0,0
+700000000681,Roddens Gardens,0,0
+700000000683,Whincroft Road,0,0
+700000000685,Glen Rise,0,0
+700000000687,The Square,0,0
+700000000689,Ravenswood Park,0,0
+700000000691,Creevy Avenue,0,0
+700000000693,Braniel Church,0,0
+700000000695,Woodview Drive,0,0
+700000000639,Mountpottinger Road,0,0
+700000000605,Castledona,0,0
+700000000607,Glensharragh,0,0
+700000000609,Lisnasharragh,0,0
+700000000611,McCaughan Park,0,0
+700000000533,Beechgrove Drive,0,0
+700000000535,Knockbreda High School,0,0
+700000000393,Forestside,0,0
+700000000719,Woodview Drive,0,0
+700000000721,Braniel Church,0,0
+700000000723,Creevy Avenue,0,0
+700000000725,Braniel Primary School,0,0
+700000000727,The Square,0,0
+700000000729,Glen Rise,0,0
+700000000731,Whincroft Road,0,0
+700000000733,Roddens Gardens,0,0
+700000000735,Glen Road,0,0
+700000000737,Ballygowan Road,0,0
+700000014753,Glenview Park,0,0
+700000000739,Brentwood Park,0,0
+700000000741,Clonduff,0,0
+700000000891,Montgomery Road,0,0
+700000000743,Marshalls Road,0,0
+700000000745,Orangefield Crescent,0,0
+700000000747,Trigo Parade,0,0
+700000000959,Orby Drive,0,0
+700000000957,Grand Parade,0,0
+700000017481,Grand Parade,0,0
+700000000955,Greenville Road,0,0
+700000000761,Paxton Street,0,0
+700000000763,Castlereagh Street Junction,0,0
+700000000765,The Green,0,0
+700000000767,Mountpottinger Road,0,0
+700000000769,Mountpottinger Link,0,0
+700000000771,Sirocco Works,0,0
+700000000749,Ladas Drive,0,0
+700000000751,Loopland,0,0
+700000000755,Ardgowan Street,0,0
+700000000757,Clara Street,0,0
+700000000759,John Long's Corner,0,0
+700000000361,Four Winds,0,0
+700000000371,Four Winds Park,0,0
+700000000373,Glenholm,0,0
+700000000375,Colby Park,0,0
+700000000377,Glendale,0,0
+700000000405,Mount Oriel,0,0
+700000000407,Breda Park,0,0
+700000000389,Forster Green,0,0
+700000000379,Foresthill View,0,0
+700000000537,Knockbreda High School,0,0
+700000000539,Rosetta Road,0,0
+700000000613,St Finnians Church,0,0
+700000000615,Stirling Avenue,0,0
+700000000617,Rochester Road,0,0
+700000000619,Clonduff Drive,0,0
+700000000621,Carncaver Road,0,0
+700000000505,Isthmus Street,0,0
+700000000507,Willowfield,0,0
+700000000509,Redcar Street,0,0
+700000000511,Loopland,0,0
+700000000515,Courtney Hall,0,0
+700000000517,Ardenlee,0,0
+700000000519,Bell's Bridge,0,0
+700000000521,Montgomery Road,0,0
+700000000523,Greenway,0,0
+700000000525,Somme Drive,0,0
+700000000527,Cregagh Library,0,0
+700000000531,The Museum of Orange Heritage,0,0
+700000000391,Forestside,0,0
+700000000541,Cregagh Park,0,0
+700000000543,The Straight,0,0
+700000000545,Hamel Drive,0,0
+700000000547,Greenway,0,0
+700000000549,Bell's Bridge,0,0
+700000000573,Onslow Gardens,0,0
+700000000575,Ardenlee,0,0
+700000000577,Glendower Street,0,0
+700000000579,Ravenhill Avenue,0,0
+700000000581,Omeath Street,0,0
+700000000583,Willowfield Crescent,0,0
+700000000447,Short Strand (Ravenhill Road),0,0
+700000000449,Shamrock Street,0,0
+700000000451,My Ladys Road,0,0
+700000000453,Toronto Street,0,0
+700000000455,Ravenhill Avenue,0,0
+700000000457,Ravenhill Court,0,0
+700000015383,Ardenlee Avenue,0,0
+700000000461,Ravensdene Park,0,0
+700000000463,Ravenhill Park,0,0
+700000000465,Aquinas Diocesan Grammar School,0,0
+700000000467,Cherryvale Park,0,0
+700000000469,Rosetta Park,0,0
+700000000303,Rosetta St John's Church,0,0
+700000000305,Hampton Park,0,0
+700000000311,Forestside,0,0
+700000014629,Newtownbreda Road,0,0
+700000014630,Castlecoole Park,0,0
+700000014631,Belvior Forest,0,0
+700000014632,Castlerobin Road,0,0
+700000014633,Belvoir Primary School,0,0
+700000014634,Kilwarlin Crescent (West),0,0
+700000014635,Moyle Walk,0,0
+700000014636,Kilwarlin Crescent (East),0,0
+700000014637,Park View,0,0
+700000014638,Taylor Court,0,0
+700000014640,Hydebank,0,0
+700000015040,Greer Park Avenue,0,0
+700000014997,Tesco Newtownbreda,0,0
+700000001637,Adelaide Street,0,0
+700000001639,Alfred Street,0,0
+700000000325,Gas Works,0,0
+700000000329,Shaftesbury Avenue,0,0
+700000000331,Hatfield Street,0,0
+700000000289,Agincourt Avenue,0,0
+700000000291,Ormeau Park,0,0
+700000000293,Candahar Street,0,0
+700000000295,South Parade,0,0
+700000000297,Ulidia,0,0
+700000000299,Ballynafeigh,0,0
+700000000301,Bell Towers,0,0
+700000014641,Bests Hill,0,0
+700000014642,Alderwood Hill,0,0
+700000014643,Royal Lodge,0,0
+700000014644,Beechill Park Avenue,0,0
+700000014645,Cedarhurst Road,0,0
+700000014646,Berkley Court,0,0
+700000000333,Rosetta Knockbreda Road,0,0
+700000000335,Knock Eden,0,0
+700000000337,Mount Merrion Park,0,0
+700000000339,Wynchurch,0,0
+700000000341,Mount Merrion Rosetta Road,0,0
+700000000343,Mount Merrion Rosetta Road,0,0
+700000000345,Wynchurch,0,0
+700000000347,Knock Eden,0,0
+700000000349,Knockbreda Road,0,0
+700000000313,Forster Green,0,0
+700000000315,Mount Oriel,0,0
+700000000363,Glendale,0,0
+700000000365,Colby Park,0,0
+700000000367,Glenholm,0,0
+700000000369,Four Winds Park,0,0
+700000014994,Lower Beechill Road,0,0
+700000014995,Cedarhurst Road,0,0
+700000014996,Beechill Park Avenue,0,0
+700000014765,Royal Lodge,0,0
+700000014766,Greenwood Glen,0,0
+700000014767,Bests Hill,0,0
+700000014649,Hydebank Roundabout,0,0
+700000014650,Milltown Hill,0,0
+700000014651,Kilwarlin Crescent (East),0,0
+700000014652,Kilwarlin Crescent (North),0,0
+700000014653,Kilwarlin Crescent,0,0
+700000014654,Belvoir Primary School,0,0
+700000014655,Castlerobin Road,0,0
+700000014656,Belvoir Forest,0,0
+700000014657,Castlecoole Park,0,0
+700000014658,Newtownbreda Road,0,0
+700000000323,Knockbreda Cemetery,0,0
+700000000409,Hampton Park,0,0
+700000000411,Annadale Avenue,0,0
+700000000413,Rosetta St John's Church,0,0
+700000000415,Ardmore Avenue,0,0
+700000000417,Ballynafeigh,0,0
+700000000419,Ulidia,0,0
+700000000421,South Parade,0,0
+700000000423,Candahar Street,0,0
+700000000425,Agincourt Avenue,0,0
+700000000427,Hatfield Street,0,0
+700000000429,McClure Street,0,0
+700000000431,Cromac Place,0,0
+700000000433,Gas Works,0,0
+700000001642,Linenhall Street,0,0
+700000000471,Rosetta Park,0,0
+700000000473,St Judes Crescent,0,0
+700000000475,St Judes Parade,0,0
+700000000485,Park Road,0,0
+700000000487,Ardenlee Avenue,0,0
+700000000489,Ardenlee Green,0,0
+700000000491,Ballynafoy Close,0,0
+700000000493,Rochester Street,0,0
+700000000495,My Ladys Road,0,0
+700000000497,Ballarat Street,0,0
+700000000499,Short Strand (Ravenhill Road),0,0
+700000014648,Greer Park Avenue,0,0
+700000000395,Forestside Upper Galwally,0,0
+700000001853,Elgin Street,0,0
+700000001854,Agra Street,0,0
+700000001855,Sunnyside Street,0,0
+700000001856,Annadale Terrace,0,0
+700000015323,Annadale Drive,0,0
+700000001857,Wellington Square,0,0
+700000001858,Annadale Allotments,0,0
+700000001859,Bowling Green,0,0
+700000000589,Locksley House,0,0
+700000000591,Robinson Centre,0,0
+700000000593,Alanbrooke Road,0,0
+700000000595,Castlereagh College,0,0
+700000000551,Hughes Court,0,0
+700000000553,Onslow Park,0,0
+700000000555,Mount Merrion Parish Church,0,0
+700000000557,Hughes Court,0,0
+700000000559,Knock Eden Crescent,0,0
+700000000561,Mount Merrion Avenue,0,0
+700000001846,Bowling Green,0,0
+700000001847,Annadale Allotments,0,0
+700000001848,Wellington Square,0,0
+700000001849,Annadale Terrace,0,0
+700000001850,Lyric Theatre Belfast,0,0
+700000001851,Queens PEC,0,0
+700000001852,Collingwood Avenue,0,0
+700000015914,Howard Street,0,0
+700000001626,Great Northern Mall,0,0
+700000001630,Dublin Road,0,0
+700000000277,Shaftesbury Square,0,0
+700000000279,Botanic Avenue,0,0
+700000000281,College Green,0,0
+700000000283,Rugby Road,0,0
+700000000285,Dudley Street,0,0
+700000000287,University Avenue,0,0
+700000000351,Glendale Park,0,0
+700000000317,Woodbreda,0,0
+700000000319,Beechill Park,0,0
+700000000321,Glenhugh Park,0,0
+700000000353,Cairnshill Court,0,0
+700000000355,Finsbury,0,0
+700000000357,Cairnshill Park,0,0
+700000000359,Malvern,0,0
+700000014782,Four Winds,0,0
+700000014772,Ballymaconaghy Mews,0,0
+700000014771,Laurelgrove,0,0
+700000000381,Malvern,0,0
+700000000383,Cairnshill Park,0,0
+700000000385,Finsbury,0,0
+700000000397,Cairnshill Court,0,0
+700000000399,Top Of The Hill,0,0
+700000000401,Glenhugh Park,0,0
+700000000387,Beechill Park,0,0
+700000000403,Woodbreda,0,0
+700000000435,University Avenue,0,0
+700000000437,Dudley Street,0,0
+700000000439,Rugby Road,0,0
+700000000441,College Green,0,0
+700000000443,Botanic Avenue,0,0
+700000000445,Shaftesbury Square,0,0
+700000001631,Albion Street,0,0
+700000001628,Bruce Street,0,0
+700000015421,Bedford Street,0,0
+700000014773,Ballymaconaghy Mews,0,0
+700000000563,Mount Merrion Crescent,0,0
+700000000565,Knock Eden Crescent,0,0
+700000000567,Mount Merrion Parish Church,0,0
+700000000569,Onslow Park,0,0
+700000000571,Burren Way,0,0
+700000000597,Castlereagh College,0,0
+700000000599,Alanbrooke Road,0,0
+700000000601,Robinson Centre,0,0
+700000000603,Locksley House,0,0
+700000000623,Knock Road,0,0
+700000001718,Sperrin Park,0,0
+700000014762,Roddens Park,0,0
+700000001737,Sperrin Park,0,0
+700000001431,Donegall Square East,0,0
+700000000976,Bradbury Place,0,0
+700000000977,Upper Crescent,0,0
+700000000979,Queen's University Belfast,0,0
+700000000981,Ulster Museum,0,0
+700000000983,Ashby Buildings,0,0
+700000000985,Sandhurst Drive,0,0
+700000000987,Stranmillis Mews,0,0
+700000000989,Stranmillis College,0,0
+700000000991,Sharman Road,0,0
+700000000993,Richmond Park,0,0
+700000014748,Broomhill Park,0,0
+700000001081,Osbourne,0,0
+700000001083,Bladon Drive,0,0
+700000001085,Myrtlefield Park,0,0
+700000001089,Balmoral Avenue,0,0
+700000001091,Mount Eden Park,0,0
+700000001093,Malone Hill Park,0,0
+700000001096,Bristow Park,0,0
+700000001098,Greenview Park,0,0
+700000001100,Malton Drive,0,0
+700000001102,Dub Lane,0,0
+700000001104,Malone Heights,0,0
+700000001106,Malone View,0,0
+700000001108,Trossachs,0,0
+700000001110,Chippendale Court,0,0
+700000015194,Erinvale,0,0
+700000001112,Erinvale Avenue,0,0
+700000001069,Eglantine Avenue,0,0
+700000001071,Chlorine Gardens,0,0
+700000001073,Sans Souci Park,0,0
+700000001075,Beechlands,0,0
+700000001077,Notting Hill,0,0
+700000001079,Cranmore Park,0,0
+700000001114,De Beere Court,0,0
+700000001116,Finaghy Youth Club,0,0
+700000001118,Finaghy Health Centre,0,0
+700000001120,Finaghy Park Central,0,0
+700000001122,Orchardville,0,0
+700000001124,Ladybrook Shops,0,0
+700000001126,Ladybrook Avenue,0,0
+700000001128,Ladybrook Cross,0,0
+700000001130,Ladybrook Terminus,0,0
+700000001142,Benmore Walk,0,0
+700000001144,Chippendale Court,0,0
+700000001146,Trossachs,0,0
+700000001148,Malone View,0,0
+700000001150,Malone Heights,0,0
+700000001152,Malton Drive,0,0
+700000001154,Fleming Fulton,0,0
+700000001156,Harberton Park,0,0
+700000001158,House of Sport,0,0
+700000001160,Malone Hill Park,0,0
+700000001162,Mount Eden Park,0,0
+700000001164,Balmoral Avenue,0,0
+700000001166,Myrtlefield Park,0,0
+700000001168,Osbourne,0,0
+700000000995,Broomhill Park,0,0
+700000000997,Richmond Park,0,0
+700000000999,Sharman Road,0,0
+700000001001,Stranmillis College,0,0
+700000001003,Ridgeway Street,0,0
+700000001005,Ashby Buildings,0,0
+700000001007,Ulster Museum,0,0
+700000001009,Queen's University Belfast,0,0
+700000001011,Upper Crescent,0,0
+700000001013,Bradbury Place,0,0
+700000016036,Great Victoria Street Naval Club,0,0
+700000001633,Great Northern Mall,0,0
+700000001425,Wellington Place,0,0
+700000001170,Cranmore Park,0,0
+700000001172,Notting Hill,0,0
+700000001174,Malone Road (Victoria College),0,0
+700000001176,Adelaide Park,0,0
+700000001179,Windsor Avenue,0,0
+700000001181,Eglantine Avenue,0,0
+700000001183,Methodist College,0,0
+700000001132,Ladybrook Avenue,0,0
+700000001134,Ladybrook Shops,0,0
+700000001136,Orchardville,0,0
+700000001138,Finaghy Park Central,0,0
+700000001140,Finaghy Health Centre,0,0
+700000001433,Donegall Square East,0,0
+700000001627,Great Northern Mall,0,0
+700000001187,Fountainville Ave,0,0
+700000001188,City Hospital,0,0
+700000001190,Ulsterville Avenue,0,0
+700000001192,Melrose Street,0,0
+700000001194,Windsor Avenue,0,0
+700000001196,Windsor Road,0,0
+700000001198,Ethel Street,0,0
+700000001200,Brookland Street,0,0
+700000001202,Marlborough Park,0,0
+700000001204,Cranmore Avenue,0,0
+700000001206,Lancefield Road,0,0
+700000001208,Maryville Park,0,0
+700000001210,Malone Park,0,0
+700000001212,King's Hall,0,0
+700000001214,Kingscourt,0,0
+700000001216,Balmoral Park,0,0
+700000001218,Priory Park,0,0
+700000001230,Marguerite Park,0,0
+700000001232,Grangeville Drive,0,0
+700000001234,Finaghy Crossroads,0,0
+700000001236,Upton Park,0,0
+700000001240,Blacks Road,0,0
+700000001242,Dunmurry Lane,0,0
+700000001244,Dunmurry Village,0,0
+700000001246,Grange Hill,0,0
+700000001248,Seymour Hill Estate Ent,0,0
+700000001250,Ballybog Road,0,0
+700000001252,River Road,0,0
+700000001221,Sicily Park,0,0
+700000001223,Locksley Gardens,0,0
+700000001225,Finnis Drive,0,0
+700000001227,Sicily Park Shops,0,0
+700000001228,Sicily Park,0,0
+700000001254,Ballybog Road,0,0
+700000001256,Seymour Hill Estate Ent,0,0
+700000001258,Grange Hill,0,0
+700000001260,Dunmurry Halt,0,0
+700000001262,Dunmurry Village,0,0
+700000001264,Beechlawn Park,0,0
+700000001266,Blacks Road,0,0
+700000001268,Upton Park,0,0
+700000001270,Lowe Memorial Church,0,0
+700000001272,Finaghy Crossroads,0,0
+700000001274,Donegall Park,0,0
+700000001276,Beechmount Park,0,0
+700000001278,Kingscourt,0,0
+700000014720,Park Royal,0,0
+700000001280,King's Hall,0,0
+700000001282,Malone Park,0,0
+700000001284,Lislea Park,0,0
+700000001286,Osbourne Park,0,0
+700000001288,Capstone Street,0,0
+700000001290,Marlborough Park,0,0
+700000001292,Brookland Street,0,0
+700000001294,Windsor Road,0,0
+700000001296,Windsor Avenue,0,0
+700000001298,Melrose Street,0,0
+700000001300,Ashley Avenue,0,0
+700000001302,Ulsterville Avenue,0,0
+700000001304,City Hospital,0,0
+700000001306,Fountainville Ave,0,0
+700000001432,Donegall Square East,0,0
+700000001308,Belfast Hostelling International,0,0
+700000001310,Oban Street,0,0
+700000001312,Abingdon Drive,0,0
+700000001314,Egeria Street,0,0
+700000001316,Richview Court,0,0
+700000001318,Kilburn Street,0,0
+700000001320,Broadway,0,0
+700000001860,Glenmachan Street,0,0
+700000001333,Olympia Leisure Centre,0,0
+700000001861,Boucher Way,0,0
+700000001862,Boucher Crescent,0,0
+700000001863,Boucher Place,0,0
+700000001339,City Council Depot,0,0
+700000001341,Musgrave Park,0,0
+700000016067,Blackstaff Road,0,0
+700000000474,Fruithill Park,0,0
+700000000476,Casement Park,0,0
+700000000478,Slievegallion Drive,0,0
+700000000400,St Michaels,0,0
+700000000330,Finaghy Road North,0,0
+700000015912,Musgrave Park Hospital,0,0
+700000015907,Musgrave Park Hospital,0,0
+700000015908,Musgrave Park Hospital,0,0
+700000015909,Musgrave Park Hospital,0,0
+700000015910,Musgrave Park Hospital,0,0
+700000015911,Musgrave Park Hospital,0,0
+700000001343,Park Centre,0,0
+700000014760,Park Centre Terminus,0,0
+700000001345,St James's Place,0,0
+700000001347,St James's Parade,0,0
+700000001797,City Cemetery,0,0
+700000001799,Falls Park,0,0
+700000000466,Kennedy Centre,0,0
+700000000470,Beech Hall,0,0
+700000000332,Finaghy Road North,0,0
+700000000348,St Michaels,0,0
+700000000450,Slievegallion Drive,0,0
+700000000452,Casement Park,0,0
+700000000456,Fruithill Park,0,0
+700000000458,Beech Hall,0,0
+700000000460,Kennedy Centre,0,0
+700000000504,Falls Park,0,0
+700000000506,City Cemetery,0,0
+700000001365,St James's Parade,0,0
+700000001367,St James's Ave,0,0
+700000001369,Park Centre,0,0
+700000001371,Broadway,0,0
+700000001373,Maldon Street,0,0
+700000001376,Richview Court,0,0
+700000001378,Egeria Street,0,0
+700000001380,Abingdon Drive,0,0
+700000001382,Oban Street,0,0
+700000001384,Belfast Hostelling International,0,0
+700000001351,Blackstaff Road,0,0
+700000001353,Musgrave Park,0,0
+700000001355,Boucher Playing Fields,0,0
+700000001864,Boucher Place,0,0
+700000001865,Boucher Crescent,0,0
+700000001866,Boucher Way,0,0
+700000001361,Olympia Leisure Centre,0,0
+700000001363,Glenmachan Street,0,0
+700000015913,Musgrave Park Hospital,0,0
+700000001325,Tates Avenue,0,0
+700000001327,Donegall Parade,0,0
+700000001329,Donegall Avenue,0,0
+700000001331,Pembroke Street,0,0
+700000001429,Queen Street,0,0
+700000001824,Castle Street,0,0
+700000000396,Millfield,0,0
+700000000398,Divis Tower,0,0
+700000000496,Twin Spires,0,0
+700000000502,Clonard,0,0
+700000001789,Royal Hospitals (Falls Road),0,0
+700000001790,Bostock House,0,0
+700000001791,Children's Hospital,0,0
+700000001793,Beechmount,0,0
+700000001794,Beechview Park,0,0
+700000001762,Glen Parade,0,0
+700000001763,Gransha,0,0
+700000001764,Glenowen,0,0
+700000001765,Saint Teresa's,0,0
+700000001766,Coolnasilla,0,0
+700000001767,CBS,0,0
+700000001768,Ramoan,0,0
+700000001769,Rosnareen,0,0
+700000016068,Shaws Road,0,0
+700000001770,Shaws Road Junction,0,0
+700000001771,St Oliver Plunkett,0,0
+700000001773,Glencolin,0,0
+700000001774,Hannahstown Hill,0,0
+700000001775,Suffolk Road Junction,0,0
+700000001776,Suffolk Heights,0,0
+700000001777,Donegal Celtic,0,0
+700000001778,Old Suffolk Road,0,0
+700000001779,Falcarragh,0,0
+700000001780,Woodbourne (Suffolk Road),0,0
+700000000438,Woodbourne (Andersonstown Road),0,0
+700000000058,Ringford Park,0,0
+700000000060,Trenchard,0,0
+700000014724,Blacks Court,0,0
+700000014736,Brooke Drive,0,0
+700000000062,Brooke Park,0,0
+700000000064,Balmoral Hotel,0,0
+700000014715,Black's Road St Anne's,0,0
+700000015109,Black's Road Park and Ride,0,0
+700000000482,Shaws Road,0,0
+700000000334,Shaws Road [Stewartstown Road],0,0
+700000000336,Rosgoill Park,0,0
+700000014784,Shaw's Road,0,0
+700000000338,Hillhead Cottages,0,0
+700000000340,Lenadoon Avenue,0,0
+700000001772,Glencolin,0,0
+700000000048,Balmoral Hotel,0,0
+700000000050,Garnock Hill,0,0
+700000000052,Brooke Drive,0,0
+700000000054,Blacks Court,0,0
+700000000056,Erris Grove,0,0
+700000000490,Suffolk Road,0,0
+700000000364,Woodbourne (Suffolk Road),0,0
+700000000366,Riverside Mews,0,0
+700000000368,Falcarragh,0,0
+700000000370,Donegal Celtic,0,0
+700000000372,Suffolk Heights,0,0
+700000000374,Hannahstown Hill,0,0
+700000000376,Glencolin,0,0
+700000000378,St Oliver Plunkett,0,0
+700000000380,Shaws Road Junction,0,0
+700000016069,Glen Road Heights,0,0
+700000000382,Rosnareen,0,0
+700000000384,Hamill Park,0,0
+700000000386,CBS,0,0
+700000000388,Coolnasilla,0,0
+700000000390,Saint Teresa's,0,0
+700000000392,Gransha Shops,0,0
+700000000394,Glen Parade,0,0
+700000000512,Beechview Park,0,0
+700000000516,Beechmount,0,0
+700000000520,Children's Hospital,0,0
+700000000522,Royal Hospitals (Falls Road),0,0
+700000000526,Clonard,0,0
+700000000528,Twin Spires,0,0
+700000000532,Divis Tower,0,0
+700000000534,Millfield,0,0
+700000001424,King Street,0,0
+700000015898,Glen Road Industrial Estate,0,0
+700000015899,Hawthorn Glen,0,0
+700000015900,Hannahstown Hill,0,0
+700000015897,Glen Road Industrial Estate,0,0
+700000000342,Lenadoon Avenue,0,0
+700000000344,Hillhead Cottages,0,0
+700000000346,Shaws Road [Stewartstown Road],0,0
+700000000448,Shaws Road,0,0
+700000017013,Colin Terminus,0,0
+700000000428,Twinbrook Road,0,0
+700000000028,Lagmore Avenue,0,0
+700000000022,Glenferna,0,0
+700000000024,Glendowan Park,0,0
+700000000026,Teeling Avenue,0,0
+700000001870,Lagmore View,0,0
+700000017502,Unknown,0,0
+700000017501,Unknown,0,0
+700000017500,Unknown,0,0
+700000017478,Lagmore Reservoir (opp to 7'0000002),0,0
+700000000000,Mount Eagles,0,0
+700000001868,Lagmore Village,0,0
+700000000002,Lagmore Reservoir,0,0
+700000000004,Teeling Avenue,0,0
+700000000006,Glendowan Park,0,0
+700000000008,Glenferna,0,0
+700000014717,Lagmore Grove,0,0
+700000000010,Lagmore Meadows,0,0
+700000000012,Lagmore Drive,0,0
+700000000014,Lagmore Dale,0,0
+700000000030,Summerhill Estate,0,0
+700000000032,St Marks School,0,0
+700000000034,Brook Centre,0,0
+700000000038,Twinbrook Road,0,0
+700000016215,Colin Terminus,0,0
+700000000106,Pembroke Loop,0,0
+700000000108,Pembroke Manor,0,0
+700000014721,Colinbrooke,0,0
+700000000110,Colinbrook Avenue,0,0
+700000000112,Springbank Close,0,0
+700000000114,Springbank Drive,0,0
+700000016210,Mill Pond,0,0
+700000000122,Brian's Well Close,0,0
+700000014729,Glenkeen,0,0
+700000017479,Brians Well Road,0,0
+700000000130,Woodside,0,0
+700000000132,Bell Steel Road [Stewartstown Road],0,0
+700000000090,St Lukes,0,0
+700000000092,Aspen Walk,0,0
+700000000094,Cherry Park,0,0
+700000000096,Cherry Road,0,0
+700000017480,Our Lady Queen of Peace,0,0
+700000000098,Upper Dunmurry Lane,0,0
+700000000100,Credenhill,0,0
+700000000076,Corrina Park,0,0
+700000000078,Cloona,0,0
+700000000492,Upper Dunmurry Lane,0,0
+700000017014,Colin Terminus,0,0
+700000000350,Bell Steel Road [Stewartstown Road],0,0
+700000000352,Woodside,0,0
+700000014722,Glenbawn,0,0
+700000000354,Brian's Well Road,0,0
+700000000356,Glenwood,0,0
+700000000358,Bell Steel Road,0,0
+700000014750,Glengoland,0,0
+700000000102,Old Colin,0,0
+700000000104,Laurelbank,0,0
+700000014752,Bell Steel Road,0,0
+700000000128,Glenwood,0,0
+700000014751,Brian's Well Road,0,0
+700000000430,Lagmore Avenue,0,0
+700000000016,Lagmore Dale,0,0
+700000000018,Lagmore Drive,0,0
+700000000020,Lagmore Meadows,0,0
+700000000072,Glengoland,0,0
+700000000074,Corrina Park,0,0
+700000014755,Credenhill,0,0
+700000000080,Upper Dunmurry Lane,0,0
+700000000082,Cherry Road,0,0
+700000000084,Cherry Park,0,0
+700000000086,Aspen Walk,0,0
+700000000088,St Lukes,0,0
+700000000420,Michael Ferguson Roundabout,0,0
+700000000436,Glengoland,0,0
+700000000118,Pantridge Road,0,0
+700000000120,Old Colin,0,0
+700000015382,Durham Street RBAI,0,0
+700000000144,Recreation Centre,0,0
+700000000146,Roden Street,0,0
+700000000148,Servia Street,0,0
+700000000152,Royal Hospitals,0,0
+700000000154,Colligan Street,0,0
+700000000156,Iris Street,0,0
+700000000158,Blackstaff Bar,0,0
+700000000160,Millennium Way,0,0
+700000000162,Elswick Street,0,0
+700000000164,Pollard Street,0,0
+700000000166,Springdale Gardens,0,0
+700000000168,Farset Int.,0,0
+700000014788,Dunboyne Park,0,0
+700000000256,Springmartin Road,0,0
+700000000258,Springfield Park,0,0
+700000000260,Divismore Park,0,0
+700000000262,Divismore Crescent,0,0
+700000017470,Mount Alverno,0,0
+700000000264,Mount Alverno Garage,0,0
+700000000266,Whiterock Business Park,0,0
+700000000268,Turf Lodge Shops,0,0
+700000000270,Monagh Road,0,0
+700000017540,Unknown,0,0
+700000000272,Opp Aitnamona Crescent,0,0
+700000000274,Glen Road,0,0
+700000000170,Springfield,0,0
+700000000172,High Side,0,0
+700000000174,High Gate,0,0
+700000000176,West Circular Crescent,0,0
+700000000178,Ballygomartin Baptist Church,0,0
+700000000824,West Circular Road,0,0
+700000000826,Glencairn Crescent,0,0
+700000000180,Woodvale Park,0,0
+700000000182,Woodvale Parade,0,0
+700000000184,Woodvale Drive,0,0
+700000001612,Cranbrook Court,0,0
+700000001613,Alliance Avenue,0,0
+700000001614,Berwick Road,0,0
+700000001615,Etna Drive,0,0
+700000001616,Jamaica Street,0,0
+700000001617,Oldpark Road,0,0
+700000001618,Golf Course,0,0
+700000001603,Oldpark Terminus,0,0
+700000000320,Brittons Parade,0,0
+700000000322,St Maria Goretti Nursery Sch,0,0
+700000000324,Whiterock B.I.F.H.E,0,0
+700000000326,Ballymurphy Road,0,0
+700000000328,Whiterock Library,0,0
+700000001070,Cliftonville Circus,0,0
+700000001072,Dunkeld Gardens,0,0
+700000001076,Deerpark Road,0,0
+700000001078,Joanmount Park,0,0
+700000001080,Oldpark Shops,0,0
+700000001842,Formby Park,0,0
+700000000978,Ballysillan Road,0,0
+700000000980,Carr's Glen,0,0
+700000000286,Glen Road,0,0
+700000000288,Aitnamona Crescent,0,0
+700000000290,Monagh Road,0,0
+700000000292,Turf Lodge Shops,0,0
+700000000294,Mount Alverno Garage,0,0
+700000000296,New Barnsley Parade,0,0
+700000000298,New Barnsley Drive,0,0
+700000000300,Divismore Park,0,0
+700000000302,Springfield Park,0,0
+700000000304,Dunboyne Park,0,0
+700000000208,Springfield Roundabout,0,0
+700000000210,Springvale Parade,0,0
+700000000212,Springvale Campus,0,0
+700000000214,Workman Avenue,0,0
+700000000216,Lanark Way,0,0
+700000000218,Millennium Way,0,0
+700000000220,Blackstaff Bar,0,0
+700000000222,Iris Street,0,0
+700000015356,Colligan Street,0,0
+700000000224,Royal Hospital Grosvenor Road,0,0
+700000000226,Gibson Street,0,0
+700000000228,Roden Street,0,0
+700000000230,Cullingtree Road,0,0
+700000000232,Stanley Street,0,0
+700000000234,Great Victoria Street,0,0
+700000001604,Knutsford Drive,0,0
+700000001605,Cliftonville Golf Club,0,0
+700000001606,Oldpark Road,0,0
+700000001607,Jamaica Street,0,0
+700000001608,Etna Drive,0,0
+700000001609,Berwick Road,0,0
+700000001610,Alliance Avenue,0,0
+700000001611,Cranbrook Court,0,0
+700000001006,Ardoyne Shops,0,0
+700000000186,Woodvale Drive,0,0
+700000000188,Woodvale Parade,0,0
+700000000836,Glencairn Crescent,0,0
+700000000242,Ballygomartin Pres Lecture Hall,0,0
+700000000244,Ballygomartin Baptist Church,0,0
+700000000246,West Circular Crescent,0,0
+700000000248,High Gate,0,0
+700000000250,Springfield Parade,0,0
+700000000252,High Side,0,0
+700000000306,St Aidans,0,0
+700000000308,Whiterock Leisure Centre,0,0
+700000000310,Ballymurphy Road,0,0
+700000000312,Whiterock Road B.I.H.F.E,0,0
+700000000314,St Maria Goretti Nursery Sch,0,0
+700000000316,Brittons Parade,0,0
+700000000318,Whiterock Road,0,0
+700000000406,Lagmore Avenue,0,0
+700000000408,Lagmore grove,0,0
+700000000410,Twinbrook Road,0,0
+700000000066,Oakhurst,0,0
+700000001436,Chichester Street,0,0
+700000000792,North Street,0,0
+700000000794,Peter's Hill,0,0
+700000000796,Lower Shankill,0,0
+700000000798,Agnes Street,0,0
+700000000800,Spier's Place,0,0
+700000017423,Sugarfield Street,0,0
+700000017424,St Matthews Hall,0,0
+700000017425,Ainsworth Street,0,0
+700000000812,Woodvale Park,0,0
+700000000814,Woodvale Park,0,0
+700000000838,West Circular Road,0,0
+700000000840,Ballygomartin Road,0,0
+700000014706,Ballymagarry Lane,0,0
+700000014707,Highcliff Gardens,0,0
+700000000828,Springhill Primary School,0,0
+700000000830,Springmartin Road,0,0
+700000014713,Springmartin,0,0
+700000000914,Donegall Street,0,0
+700000000918,Clifton House,0,0
+700000000920,Carlisle Circus Clifton Street,0,0
+700000000922,Mater Hospital,0,0
+700000000924,Agnes Street,0,0
+700000000926,Albertville Drive,0,0
+700000000928,St Marys,0,0
+700000000930,Tennent Street,0,0
+700000000932,Flax Street,0,0
+700000000934,Kerrera Street,0,0
+700000000878,Ardoyne Shops,0,0
+700000000882,Everton Complex,0,0
+700000000884,Somerdale Park,0,0
+700000000886,Mercy Primary School,0,0
+700000000888,Abbeydale Park,0,0
+700000000890,Wheatfield Gardens,0,0
+700000000892,Glenside Park,0,0
+700000000894,Glenbank Corner,0,0
+700000000896,Springvale Gardens,0,0
+700000000898,Ligoniel Park,0,0
+700000000900,Mill valley Road,0,0
+700000000902,Ligoniel Community Centre,0,0
+700000000904,Wolfhill Centre,0,0
+700000000936,Mountainhill Walk,0,0
+700000000938,Old Mill Road,0,0
+700000000940,Mountainhill Road,0,0
+700000000872,Mount Eden Court,0,0
+700000000876,Woodvale Road,0,0
+700000000954,Leggagh Court,0,0
+700000000956,Tedburn Park,0,0
+700000000960,Bilston Road,0,0
+700000000962,Ballysillan Leisure Centre,0,0
+700000000964,Silverstream Gardens,0,0
+700000000966,Churchview,0,0
+700000000968,Ballysillan Drive,0,0
+700000000970,Silverstream,0,0
+700000000972,Silverstream (Ballysillan Park),0,0
+700000000842,Glencairn Road,0,0
+700000000844,Forthriver Pass,0,0
+700000000846,Forthriver Scout Hall,0,0
+700000000848,Forthriver Way,0,0
+700000000850,Forthriver Drive,0,0
+700000000852,Glencairn Mission Hall,0,0
+700000000854,Forthriver Parade,0,0
+700000000856,Glencairn,0,0
+700000000906,Ligoniel Place,0,0
+700000000908,Lever Street,0,0
+700000000910,Wolfhill,0,0
+700000000912,Lever Street,0,0
+700000017476,Bilston Road,0,0
+700000016617,Brae Hill Road,0,0
+700000016619,Upper Crumlin Road,0,0
+700000000942,Mountainhill Road,0,0
+700000000944,Wolfhill Centre,0,0
+700000000946,Ligoniel Church,0,0
+700000000948,Limehill Street,0,0
+700000000950,Ligoniel Park,0,0
+700000000952,Springvale Gardens,0,0
+700000000992,Glenbank Corner,0,0
+700000000994,Glenside Park,0,0
+700000000996,Abbeydale Park,0,0
+700000001000,Somerdale Park,0,0
+700000001002,Everton Complex,0,0
+700000001036,Kerrera Street,0,0
+700000001038,Cambria Street,0,0
+700000001040,Tennent Street,0,0
+700000016060,McCandless Street,0,0
+700000001042,Century Street,0,0
+700000001044,Agnes Street,0,0
+700000001046,Mater Hospital,0,0
+700000001421,CastleCourt,0,0
+700000000834,Springmartin Road,0,0
+700000000816,Springhill Primary School,0,0
+700000000818,Highcliff Gardens,0,0
+700000000820,Ballymagarry Lane,0,0
+700000000822,Lyndhurst Gardens,0,0
+700000000858,Forthriver Dale,0,0
+700000000860,Glencairn Mission Hall,0,0
+700000000862,Forthriver Drive,0,0
+700000000864,Forthriver Way,0,0
+700000000866,Forthriver Scout Hall,0,0
+700000000868,Forthriver Pass,0,0
+700000000870,Glencairn Road,0,0
+700000000832,Woodvale Park,0,0
+700000001014,Woodvale Park,0,0
+700000001016,Cambrai Street,0,0
+700000001020,Glenwood Street,0,0
+700000001024,Berlin Street,0,0
+700000001026,Spier's Place,0,0
+700000017422,Malvern Street,0,0
+700000001030,Lower Shankill,0,0
+700000001032,Peter's Hill,0,0
+700000001034,North Street,0,0
+700000000974,Clareglen,0,0
+700000001841,Churchview,0,0
+700000000986,Silverstream Gardens,0,0
+700000000988,Bilston Road,0,0
+700000000990,Tedburn Park,0,0
+700000001008,Twaddell,0,0
+700000001010,Mount Eden Court,0,0
+700000000134,Donegall Square North,0,0
+700000001054,Shannon Street,0,0
+700000001056,Oldpark Library,0,0
+700000001058,Hillview Road,0,0
+700000001060,Churchview Court,0,0
+700000001062,Ardoyne Avenue,0,0
+700000001064,Marrowbone Park,0,0
+700000001066,The Park,0,0
+700000001068,Torrens Crescent,0,0
+700000001111,Belfast Royal Academy,0,0
+700000001113,Belfast Royal Academy,0,0
+700000001115,Manor Street,0,0
+700000001117,Glenard Brook,0,0
+700000001119,Elimgrove Street,0,0
+700000001121,Knutsford Drive,0,0
+700000001123,Kingsmere Avenue,0,0
+700000016607,Mill Valley Road,0,0
+700000016609,Mill Valley Court,0,0
+700000016611,Mill Valley Gardens,0,0
+700000016613,Thornberry Hill,0,0
+700000016623,Wolfhill Grove,0,0
+700000016615,Wolfhill Manor,0,0
+700000000982,Wallasey Park,0,0
+700000000984,Formby Park,0,0
+700000001082,Oldpark Shops,0,0
+700000001084,Carr's Glen Primary School,0,0
+700000001086,Deerpark Road,0,0
+700000001088,Dunkeld Gardens,0,0
+700000001090,Cliftonville Circus,0,0
+700000001092,Oldpark Road,0,0
+700000001095,Torrens Crescent,0,0
+700000001097,The Park,0,0
+700000001099,Marrowbone Park,0,0
+700000001103,Oldpark Avenue,0,0
+700000001105,Hillview Road,0,0
+700000001107,Hillview Court,0,0
+700000001109,Shannon Street,0,0
+700000001125,Kelvin Parade,0,0
+700000001241,Cardigan Drive,0,0
+700000001127,Chestnut Gardens,0,0
+700000001129,Glenard Brook,0,0
+700000001131,Manor Street,0,0
+700000001133,Belfast Royal Academy,0,0
+700000016616,Wolfhill Manor,0,0
+700000016624,Wolfhill Avenue South,0,0
+700000016614,Thornberry Avenue,0,0
+700000016612,Mill Valley Way,0,0
+700000016610,Mill Valley Lane,0,0
+700000016608,Mill Valley Road,0,0
+700000001388,Prince Charles Way,0,0
+700000001389,Ferndale,0,0
+700000001479,Ballyduff Shops,0,0
+700000001417,Nelson Street Bus Lane,0,0
+700000001397,Princes Drive,0,0
+700000001398,Fernagh Avenue,0,0
+700000001399,Whiteabbey Train Station [bus stop],0,0
+700000001400,Abbey Court,0,0
+700000001573,Trench Road,0,0
+700000001574,Blackwater Road,0,0
+700000001575,Cloughmore Road,0,0
+700000001416,Three Mile Water,0,0
+700000001458,Dunkeld Gardens,0,0
+700000001468,Ballyduff Shops,0,0
+700000001379,Ferndale Avenue,0,0
+700000001381,Ferndale,0,0
+700000001383,Glebe Road,0,0
+700000001358,Abbey Court,0,0
+700000001360,Fernagh Avenue,0,0
+700000001362,Cloughfern Station Road,0,0
+700000001723,Grahamsbridge Road,0,0
+700000001724,Limetree Res.,0,0
+700000001725,The Moat,0,0
+700000000961,Donovan Parade,0,0
+700000000965,Udr Centre,0,0
+700000017469,Orchard Rise,0,0
+700000015281,Belvoir View Park,0,0
+700000016351,Breda Academy School School,0,0
+700000015039,Ulster Hall,0,0
+700000001087,Newforge Lane,0,0
+700000017412,Bedford Street,0,0
+700000001645,Wellington Place,0,0
+700000001650,Odyssey,0,0
+700000015362,Sydenham Road,0,0
+700000001664,Fraser Street Bridge,0,0
+700000001665,Hamilton Road,0,0
+700000001666,DFI,0,0
+700000001667,Shorts,0,0
+700000001668,Rivers Edge,0,0
+700000001669,BOC,0,0
+700000001670,Airport Road West,0,0
+700000015009,EM News Distribution,0,0
+700000001671,Irwin Way,0,0
+700000001672,Moscow Road/Har Lag.,0,0
+700000001673,Portside,0,0
+700000001674,Heron Road,0,0
+700000001675,Trident House,0,0
+700000015361,Premier Inn,0,0
+700000001651,Titanic,0,0
+700000001652,Victoria Road,0,0
+700000001653,Thompson Dry Dock,0,0
+700000001654,Catalyst Inc,0,0
+700000016064,Queens Road,0,0
+700000001655,Catalyst Inc,0,0
+700000015373,PRONI,0,0
+700000001676,Trident House,0,0
+700000001677,Heron Road,0,0
+700000001678,Portside,0,0
+700000001679,Moscow Road/Har Lag.,0,0
+700000001680,Irwin Way,0,0
+700000015010,EM News Distribution,0,0
+700000001681,Airport Road West,0,0
+700000001683,River Side,0,0
+700000001684,Shorts,0,0
+700000001685,DFI,0,0
+700000016063,Hamilton Road,0,0
+700000001686,Fraser Street Bridge,0,0
+700000001687,Old Channel Road,0,0
+700000014780,Odyssey,0,0
+700000015366,Upper Queen Street,0,0
+700000001059,BCC Contract Services,0,0
+700000001061,Musgrave Cash & Carry,0,0
+700000001063,Pickfords,0,0
+700000000191,Bretland House,0,0
+700000001025,Bretland House,0,0
+700000001027,Scruttons,0,0
+700000001029,Duncrue Pass,0,0
+700000001031,Musgrave Cash & Carry,0,0
+700000001033,Auto Trader,0,0
+700000001035,BKB Bathroom,0,0
+700000001037,Vodafone,0,0
+700000001039,Powerteam,0,0
+700000017468,Seal Road,0,0
+700000001041,Thomas Johnston,0,0
+700000001043,West Bank Close,0,0
+700000001045,West Bank Way,0,0
+700000001047,Terminus,0,0
+700000015233,Stena Line terminus,0,0
+700000001049,Terminus,0,0
+700000001051,West Bank Way,0,0
+700000001053,Norfolkline Irish Sea Ferries,0,0
+700000001055,Thomas Johnston,0,0
+700000017467,West Bank Road,0,0
+700000000236,Seal Road,0,0
+700000001057,Powerteam,0,0
+700000017122,Grand Central Bus Stand 20,0,0
+700000001688,George Best Belfast City Airport,0,0
+700000001872,Donegall Square South,0,0
+700000017121,Grand Central Bus Stand 19,0,0
+700000000661,Eastside Park and Ride,0,0
+700000001561,Northside Park & Ride,0,0
+700000017123,Grand Central Bus Stand 21,0,0
+700000001801,Europa Busway,0,0
+700000000206,Opp Inst Of Clinical Science,0,0
+700000000192,School of Denistry,0,0
+700000000194,Elliott Dynes Rehabilitation Unit,0,0
+700000000196,Power Plant Terminus RVH,0,0
+700000001800,Europa Busway,0,0
+700000000198,Royal Hospital Stores,0,0
+700000000200,Children's Hospital,0,0
+700000000202,Royal Hospital Maternity Ward,0,0
+700000000204,Institute of Pathology,0,0
+700000000953,Connswater Shopping Centre,0,0
+700000016399,Knock Eden Crescent,0,0
+700000016400,Flush Park,0,0
+700000016401,Chesterfield Park,0,0
+700000016402,Queensberry Park,0,0
+700000016403,Wynchurch Terrace,0,0
+700000016404,Wynchurch Avenue,0,0
+700000016405,Bannagh Corner,0,0
+700000016406,Cooneen Way,0,0
+700000016407,The Straight,0,0
+700000016408,Burntollet Way,0,0
+700000016409,South Bank,0,0
+700000016410,Cooneen Way [Mount Merrion Avenue],0,0
+700000016411,North Bank,0,0
+700000016412,Hamel Drive,0,0
+700000016413,Stirling Gardens,0,0
+700000016414,Stirling Avenue,0,0
+700000016415,Merok Crescent,0,0
+700000016416,Carnamena Avenue,0,0
+700000016417,Glensharragh Avenue,0,0
+700000016418,Glensharragh Park,0,0
+700000016419,Rochester Road,0,0
+700000016420,Tullyard Way,0,0
+700000016422,Clonduff Drive,0,0
+700000016423,Castlereagh Road,0,0
+700000016424,Ravenhill Avenue,0,0
+700000016425,Rosebery Road,0,0
+700000016426,My Lady's Road,0,0
+700000016427,Cherryville Street,0,0
+700000016428,Templemore Avenue,0,0
+700000016429,Ballymacarrett Road,0,0
+700000016430,Island Street,0,0
+700000016431,Mersey Street,0,0
+700000016432,Mersey Street,0,0
+700000016433,Dundela Avenue,0,0
+700000016434,North Road,0,0
+700000000825,Knock Road,0,0
+700000016435,Knock Road,0,0
+700000000625,Clarawood,0,0
+700000016398,Bloomfield Avenue,0,0
+700000016436,Martinez Avenue,0,0
+700000016437,Orangefield Road,0,0
+700000016438,Orangefield Avenue,0,0
+700000016439,Orangefield Grove,0,0
+700000016440,Orangefield Lane,0,0
+700000016441,Grand Parade,0,0
+700000016445,Creevy Avenue (Creevy Way),0,0
+700000001825,Woodview Terrace,0,0
+700000016446,Kinross Avenue (King's Road),0,0
+700000016447,South Sperrin,0,0
+700000016448,Abbey Road,0,0
+700000016449,Abbey Park,0,0
+700000016450,Ardcarn Drive,0,0
+700000016451,Ardcarn Way,0,0
+700000016452,Summerhill Avenue,0,0
+700000016453,Summerhill Park,0,0
+700000016454,Barnett's Road,0,0
+700000001760,St Columba's,0,0
+700000001761,Kings Road Sandown Road,0,0
+700000000883,North Road (Upper Newtownards Road),0,0
+700000016455,Grampian Avenue,0,0
+700000003049,Cedar Grove,0,0
+700000003050,Palace Barracks,0,0
+700000003051,331-339 Old Holywood Road,0,0
+700000003053,Redburn Clinic,0,0
+700000003054,Oakley Avenue,0,0
+700000016460,Oakley Avenue (Abbey Ring),0,0
+700000016461,Abbey Ring,0,0
+700000016462,Clonaver Drive,0,0
+700000016463,Clonaver Crescent North,0,0
+700000016464,Clonaver Crescent South,0,0
+700000016465,Edgcumbe View,0,0
+700000016466,Edgcumbe Gardens,0,0
+700000016467,Bloomfield Avenue (Laburnum Lane),0,0
+700000016520,Old Milltown Road (Belvoir Drive),0,0
+700000016521,Kilwarlin Crescent,0,0
+700000015282,Newtownbreda High School,0,0
+700000014998,Breda Gardens,0,0
+700000000307,Forestside,0,0
+700000016503,Woodbreda Park,0,0
+700000016504,Woodbreda Drive,0,0
+700000016505,Woodbreda Avenue,0,0
+700000016506,Lenaghan Crescent,0,0
+700000016507,Lenaghan Park,0,0
+700000016508,Castlecoole Park (Belvoir Drive),0,0
+700000016509,Castledillon Road,0,0
+700000016510,Castlecoole Park,0,0
+700000016511,Castleward Park,0,0
+700000016512,Castlerobin Road,0,0
+700000014662,Dunseverick Avenue (Drumart Green),0,0
+700000016513,Drumart Drive,0,0
+700000016514,Archdale Park,0,0
+700000016515,Archdale Drive,0,0
+700000016516,Archdale Park (Drumart Square),0,0
+700000016517,Downhill Avenue,0,0
+700000016518,Gray's Park,0,0
+700000016519,Gray's Park Avenue,0,0
+700000016522,Sunnyside Street (Ormeau Road),0,0
+700000016523,Deramore Avenue,0,0
+700000016524,Haywood Avenue,0,0
+700000016525,Ava Street,0,0
+700000016526,Elgin Street (Annadale Embankment),0,0
+700000016527,Annadale Embankment (Ormeau Road),0,0
+700000016528,Raphael Street (Cromac Street),0,0
+700000016529,McAuley Street,0,0
+700000016530,Stewart Street,0,0
+700000016531,Hamilton Street,0,0
+700000001434,Donegall Square South,0,0
+700000016532,Hampton Park (Hampton Manor),0,0
+700000016533,Annadale Crescent,0,0
+700000016534,Stranmillis Embankment (Governor's Bridge),0,0
+700000016535,Ava Avenue Ormeau Bakery,0,0
+700000001822,Annadale Flats,0,0
+700000000788,Felden,0,0
+700000000790,Bawnmore Park,0,0
+700000016548,Armoy Gardens (Rathcoole Drive),0,0
+700000016549,Ardeen Avenue,0,0
+700000016550,Avonlea Gardens (Ardeen Avenue),0,0
+700000016551,Green Walk,0,0
+700000016552,Ardmillan Drive,0,0
+700000016553,Owenreagh Drive,0,0
+700000016554,Carnreagh Bend,0,0
+700000016555,Coolderry Gardens,0,0
+700000016556,Carmeen Drive,0,0
+700000016557,Clonbeg Drive,0,0
+700000016558,Barna Square,0,0
+700000016559,Rosslea Way (Green End),0,0
+700000003786,Rathmullan Drive,0,0
+700000001788,Tesco Newtownabbey,0,0
+700000016560,Castle Gardens,0,0
+700000016561,Castle Avenue (Castle Gardens),0,0
+700000016562,Lansdowne Road,0,0
+700000016563,Lansdowne Park,0,0
+700000016564,Lowwood Park (Lansdowne Park),0,0
+700000016565,Lowwood Gardens,0,0
+700000016566,Mount Vernon Park,0,0
+700000016567,Mount Vernon Road,0,0
+700000016568,Gray's Lane,0,0
+700000016569,Graymount Park,0,0
+700000016570,Graymount Road,0,0
+700000016571,Whitewell Drive,0,0
+700000016572,Thorburn Road,0,0
+700000016573,Ballyroney Hill,0,0
+700000016574,Gunnell Hill,0,0
+700000001594,Martin Park,0,0
+700000016575,Station Road (Old),0,0
+700000016576,Ypres Park,0,0
+700000016577,Fernagh Parade,0,0
+700000016578,Fernagh Court,0,0
+700000016579,Fernagh Drive,0,0
+700000016580,Princes Crescent,0,0
+700000016581,Prince's Crescent,0,0
+700000016582,Prince's Drive,0,0
+700000016583,Kings Gardens,0,0
+700000016584,Kings Crescent,0,0
+700000016585,Kings Crescent,0,0
+700000016586,Kings Road,0,0
+700000016590,Bracken Drive,0,0
+700000016591,Beechwood Avenue,0,0
+700000016592,Woodland Drive,0,0
+700000001403,Doagh Road,0,0
+700000014797,Martin Park,0,0
+700000001346,Valley Business Centre,0,0
+700000001394,Drumcree Place,0,0
+700000001366,Gransha Grove,0,0
+700000001395,Centra Stores,0,0
+700000001364,O`Neill Road,0,0
+700000001396,Knockenagh  Avenue,0,0
+700000016593,Beverley Gardens (Beverley Road),0,0
+700000016594,Kimberley Road (Beverley Gardens),0,0
+700000016595,Ballyduff Road (Kimberley Road),0,0
+700000001391,Glebe Lodge,0,0
+700000001392,Glebe Road,0,0
+700000001393,Carnmoney Cemetery,0,0
+700000001348,Valley Business Centre,0,0
+700000001350,Valley Leisure Centre,0,0
+700000015425,University Square Botanic,0,0
+700000001426,Wellington Place,0,0
+700000003756,Ulster University Jordanstown,0,0
+700000017074,UUJ Sports Centre,0,0
+700000000614,York Street Station [bus stop],0,0

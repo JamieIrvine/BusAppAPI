@@ -1,0 +1,125 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+MET_1A,MET,1A,City Centre - Carnmoney - Fairview Road - Glenville | Glenville - Fairview Road - Carnmoney - City Centre,3
+MET_1J,MET,1J,City Centre - Royal Mail (Mallusk) | Royal Mail (Mallusk) - City Centre,3
+MET_1E,MET,1E,City Centre - Roughfort | Roughfort - City Centre,3
+MET_1C,MET,1C,City Centre - New Mossley - Fairview Road - Glenville | Glenville - Fairview Road - New Mossley - City Centre,3
+MET_1D,MET,1D,City Centre - New Mossley - Mossley Glade | Mossley Glade - New Mossley - City Centre,3
+MET_1K,MET,1K,City Centre - New Mossley - Manse Way - Mossley Glade | Mossley Glade - Manse Way - New Mossley - City Centre,3
+MET_1F,MET,1F,City Centre - Mayfield - Blackrock | Blackrock - Mayfield - City Centre,3
+MET_1M,MET,1M,City Centre - New Mossley - Manse Way,3
+MET_1G,MET,1G,City Centre - New Mossley - Manse Way | Manse Way - New Mossley - City Centre,3
+MET_2A,MET,2A,City Centre - Fairview Road | Fairview Road - City Centre,3
+MET_2B,MET,2B,City Centre - Fairview Road | Fairview Road - City Centre,3
+MET_2C,MET,2C,City Centre - Monkstown | Monkstown - City Centre,3
+MET_2E,MET,2E,City Centre - Rathcoole - Monkstown | Monkstown - Rathcoole - City Centre,3
+MET_2G,MET,2G,City Centre - Monkstown | Monkstown - City Centre,3
+MET_2D,MET,2D,City Centre - Monkstown | Monkstown - City Centre,3
+MET_2F,MET,2F,City Centre - Rathcoole - Rathfern - Monkstown | Monkstown - Rathfern - Rathcoole - City Centre,3
+MET_2H,MET,2H,City Centre - Rathcoole - Rathfern | Rathfern - Rathcoole - City Centre,3
+MET_2P,MET,2P,City Centre - Fairview Road | Fairview Road - City Centre,3
+MET_2J,MET,2J,City Centre - Carr's Glen | Carr's Glen - City Centre,3
+MET_2K,MET,2K,City Centre - Downview | Downview - City Centre,3
+MET_2M,MET,2M,City Centre - Downview - Abbeycentre | Abbeycentre - Downview - City Centre,3
+MET_3A,MET,3A,City Centre - Holywood Road - Knocknagoney | Knocknagoney - Holywood Road - City Centre,3
+MET_3B,MET,3B,City Centre - Holywood Road - Knocknagoney | Knocknagoney - Holywood Road - City Centre,3
+MET_3D,MET,3D,City Centre - Holywood Exchange | Holywood Exchange - City Centre,3
+MET_3C,MET,3C,City Centre - Garnerville Road - Holywood Exchange | Holywood Exchange - Garnerville Road - City Centre,3
+MET_3E,MET,3E,City Centre - Old Holywood Road - Holywood Exchange | Holywood Exchange - Old Holywood Road - City Centre,3
+MET_3J,MET,3J,City Centre - Garnerville Road - Holywood Exchange | Holywood Exchange - Garnerville Road - City Centre,3
+MET_3G,MET,3G,City Centre - Dundonald | Dundonald - City Centre,3
+MET_3H,MET,3H,City Centre - Stormont | Stormont - City Centre,3
+MET_3F,MET,3F,City Centre - Dundonald | Dundonald - City Centre,3
+MET_G4A,MET,G4A,Dundonald P&R - Ballybeen,3
+MET_G4B,MET,G4B,Dundonald P&R - Coopers Mill,3
+MET_4D,MET,4D,City Centre - Tullycarnet - Dundonald | Dundonald - Tullycarnet - City Centre,3
+MET_4E,MET,4E,City Centre - Gilnahirk | Gilnahirk - City Centre,3
+MET_4C,MET,4C,City Centre - Tullycarnet - Millmount | Millmount - Tullycarnet - City Centre,3
+MET_5A,MET,5A,City Centre - Braniel | Braniel - City Centre,3
+MET_5C,MET,5C,City Centre - Forestside | Forestside - City Centre,3
+MET_5B,MET,5B,Braniel - City Centre,3
+MET_6A,MET,6A,City Centre - Forestside | Forestside - City Centre,3
+MET_6D,MET,6D,City Centre - Belvoir - Newtownbreda Tesco | Newtownbreda Tesco - Belvoir - City Centre,3
+MET_6C,MET,6C,City Centre - Belvoir - Beechill Road - Newtownbreda Tesco | Newtownbreda Tesco - Beechill Road - Belvoir - City Centre,3
+MET_6E,MET,6E,City Centre - Mount Merrion - Four Winds | Four Winds - Mount Merrion - City Centre,3
+MET_6F,MET,6F,City Centre - Mount Merrion - Upper Knockbreda Road | Upper Knockbreda Road - Mount Merrion - City Centre,3
+MET_7A,MET,7A,City Centre - Four Winds | Four Winds - City Centre,3
+MET_7B,MET,7B,City Centre - Four Winds - Laurelgrove | Laurelgrove - Four Winds - City Centre,3
+MET_7D,MET,7D,City Centre - Mount Merrion - Four Winds - Laurelgrove | Laurelgrove - Four Winds - Mount Merrion - City Centre,3
+MET_7C,MET,7C,City Centre - Mount Merrion - Four Winds | Four Winds - Mount Merrion - City Centre,3
+MET_7H,MET,7H,City Centre - Forestside - Mount Merrion - Stormont | Stormont - Mount Merrion - Forestside - City Centre,3
+MET_7G,MET,7G,City Centre - Mount Merrion - Braniel | Braniel - Mount Merrion - City Centre,3
+MET_8A,MET,8A,City Centre - Stranmillis - Malone - Erinvale | Erinvale - Malone - Stranmillis - City Centre,3
+MET_8B,MET,8B,City Centre - Malone - Erinvale | Erinvale - Malone - City Centre,3
+MET_8D,MET,8D,City Centre - Stranmillis | Stranmillis - City Centre,3
+MET_8C,MET,8C,City Centre - Malone - Ladybrook | Ladybrook - Malone - City Centre,3
+MET_9A,MET,9A,City Centre - Conway | Conway - City Centre,3
+MET_9B,MET,9B,City Centre - Balmoral (Sicily Park) | Balmoral (Sicily Park) - City Centre,3
+MET_9C,MET,9C,City Centre - Balmoral (Sicily Park) - Conway | Conway - Balmoral (Sicily Park) - City Centre,3
+MET_9G,MET,9G,City Centre - Boucher Road - Ladybrook | Ladybrook - Boucher Road - City Centre,3
+MET_9E,MET,9E,City Centre - Boucher Road - Musgrave Park Hospital | Musgrave Park Hospital - Boucher Road - City Centre,3
+MET_9H,MET,9H,City Centre - Park Centre | Park Centre - City Centre,3
+MET_9J,MET,9J,City Centre - Donegall Road - Ladybrook | Ladybrook - Donegall Road - City Centre,3
+MET_9K,MET,9K,City Centre - Donegall Road - Falls Park,3
+MET_9F,MET,9F,Musgrave Park Hospital - Boucher Road - City Centre,3
+MET_9M,MET,9M,City Centre - Boucher Road - Boucher Crescent,3
+MET_10H,MET,10H,City Centre - Black's Road | Black's Road - City Centre,3
+MET_10A,MET,10A,City Centre - Ladybrook | Ladybrook - City Centre,3
+MET_10B,MET,10B,City Centre - Glencolin - Hannahstown Hill | Hannahstown Hill - Glencolin - City Centre,3
+MET_G10D,MET,G10D,Colin Connect - Lagmore (Mount Eagles),3
+MET_G10C,MET,G10C,Colin Connect - Poleglass,3
+MET_G10E,MET,G10E,Colin Connect - Twinbrook - Upper Dunmurry Lane,3
+MET_10F,MET,10F,City Centre - Lagmore | Lagmore - City Centre,3
+MET_10G,MET,10G,City Centre - Lagmore | Lagmore - City Centre,3
+MET_10K,MET,10K,City Centre - Turf Lodge - Glen Road -  Colin - Twinbrook | Twinbrook - Colin - Glen Road - Turf Lodge - City Centre,3
+MET_10M,MET,10M,City Centre - Ardoyne - Oldpark (Westland Road) | Oldpark (Westland Road) - Ardoyne - City Centre,3
+MET_10J,MET,10J,City Centre - Turf Lodge - Glen Road - Colin - Twinbrook | Twinbrook - Colin - Glen Road - Turf Lodge - City Centre,3
+MET_10P,MET,10P,City Centre - Ardoyne - Carr's Glen,3
+MET_10X,MET,10X,City Centre - Black's Road - Belsteele Road - Lagmore | Lagmore - Belsteele Road - Black's Road - City Centre,3
+MET_11B,MET,11B,City Centre - Springmartin | Springmartin - City Centre,3
+MET_11F,MET,11F,City Centre - Ligoniel,3
+MET_11A,MET,11A,City Centre - Silverstream | Silverstream - City Centre,3
+MET_11C,MET,11C,City Centre - Glencairn | Glencairn - City Centre,3
+MET_11E,MET,11E,City Centre - Ligoniel | Ligoniel - City Centre,3
+MET_11J,MET,11J,City Centre - Silverstream,3
+MET_11G,MET,11G,City Centre - Silverstream,3
+MET_11D,MET,11D,City Centre  - Glencairn - Springmartin | Springmartin - Glencairn - City Centre,3
+MET_12B,MET,12B,City Centre - Carr's Glen | Carr's Glen - City Centre,3
+MET_12A,MET,12A,City Centre - Carr's Glen | Carr's Glen - City Centre,3
+MET_12C,MET,12C,City Centre - Ligoniel | Ligoniel -  City Centre,3
+MET_13,MET,13,City Centre - Newtownabbey - City Centre (Circular),3
+MET_13A,MET,13A,City Centre - Newtownabbey - City Centre (Circular),3
+MET_13C,MET,13C,Hydepark - Cloughfern - City Centre,3
+MET_13B,MET,13B,City Centre - Glenville,3
+MET_14B,MET,14B,Glenville - City Centre,3
+MET_14C,MET,14C,Cloughfern - Hydepark,3
+MET_14,MET,14,City Centre - Newtownabbey - City Centre (Circular),3
+MET_14A,MET,14A,City Centre - Newtownabbey - City Centre (Circular),3
+MET_188,MET,188,Ballybeen - East Link - Dundonald Ice Bowl - Forestside - Breda Acad,3
+MET_93,MET,93,City Centre - Newforge Lane | Newforge Lane - City Centre,3
+MET_94,MET,94,City Centre - Holywood Exchange | Holywood Exchange - City Centre,3
+MET_94A,MET,94A,City Centre - Titanic Quarter (Belfast Met) - Queen's Road,3
+MET_94B,MET,94B,City Centre - Titanic Quarter (Belfast Met) - Holywood Exchange | Holywood Exchange - Titanic Quarter (Belfast Met) - City Centre,3
+MET_96,MET,96,City Centre - Duncrue Road - Westbank Road - Stena Line Terminal | Stena Line Terminal - Westbank Road - Duncrue Road - City Centre,3
+MET_696,MET,696,City Centre - Duncrue Road | Duncrue Road - City Centre,3
+MET_600,MET,600,Europa Buscentre - City Centre - Belfast City Airport | Belfast City Airport - City Centre - Europa Buscentre,3
+MET_649,MET,649,Eastside Park + Ride - City Centre - Eastside Park + Ride,3
+MET_648,MET,648,Northside Park + Ride - City Centre - Northside Park + Ride,3
+MET_649A,MET,649A,Eastside Park + Ride - Northside Park + Ride - City Centre - Eastsid,3
+MET_650,MET,650,Europa Buscentre - Black's Road (Park + Ride) | Black's Road (Park + Ride) - Europa Buscentre,3
+MET_646A,MET,646A,City Centre - Black's Road (Park + Ride) | Black's Road (Park + Ride) - City Centre,3
+MET_650A,MET,650A,Europa Buscentre - Black's Road (Park + Ride) | Black's Road (Park + Ride) - Europa Buscentre,3
+MET_646,MET,646,City Centre - Black's Road (Park + Ride) | Black's Road (Park + Ride) - City Centre,3
+MET_EB1,MET,EB1,Connswater - Cregagh,3
+MET_EB2,MET,EB2,Connswater - Newtownards Road,3
+MET_EB3,MET,EB3,Connswater - Gilnahirk,3
+MET_EB4,MET,EB4,Connswater - Knocknagoney,3
+MET_EB5,MET,EB5,Forestside - Belvoir,3
+MET_EB6,MET,EB6,Forestside - St George's Market - Adelaide Street,3
+MET_EB7,MET,EB7,Forestside - Annadale,3
+MET_EB13,MET,EB13,Abbeycentre - Rathcoole,3
+MET_EB15,MET,EB15,Abbeycentre - Downview,3
+MET_EB16,MET,EB16,Abbeycentre - Cloughfern,3
+MET_EB17,MET,EB17,Abbeycentre - Carnmoney,3
+MET_U2,MET,U2,University Square - City Centre - Ulster University - UU Jordanstown | UU Jordanstown Campus - Ulster University - City Centre - University,3
+MET_U1,MET,U1,University Square - City Centre - Ulster University - Yorkgate Stati | Yorkgate Station - Ulster University - City Centre - University Squa,3
+MET_U2a,MET,U2a,University Square - City Centre - Ulster University - UU Jordanstown | UU Jordanstown Campus - Ulster University - City Centre - University,3

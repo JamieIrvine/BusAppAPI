@@ -1,0 +1,4 @@
+ingestion:
+  gtfs:
+    - name: Metro
+      path: gtfs/metro/

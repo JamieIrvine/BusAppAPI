@@ -12,7 +12,43 @@ services:
     ports:
       - "2877:2877"
     environment:
-      - GO111MODULE=on
+      GO111MODULE: on
+      POSTGRES_USER: bus-api
+      POSTGRES_PASSWORD: test
+      POSTGRES_HOST: db
+      POSTGRES_DB_NAME: bus-api
+
+  db:
+    image: postgres:latest
+    container_name: postgres_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: bus-api
+      POSTGRES_USER: bus-api
+      POSTGRES_PASSWORD: test
+    ports:
+      - "5432:5432"
+
+  liquibase:
+    image: liquibase/liquibase:latest
+    container_name: liquibase_migration
+    depends_on:
+      - db
+    volumes:
+      - ./liquibase/changelog:/liquibase/changelog
+
+    # `sleep 5` makes the container wait a couple of seconds before running Liquibase scripts to make sure
+    # the database is ready
+    command: >
+      /bin/sh -c "sleep 5 &&
+      liquibase --defaults-file=/liquibase/changelog/liquibase.properties --search-path=/liquibase/changelog
+      --url=jdbc:postgresql://$${POSTGRES_HOST}:5432/$${POSTGRES_DB_NAME}
+      --username=$${POSTGRES_USER} --password=$${POSTGRES_PASSWORD} update"
+    environment:
+      POSTGRES_USER: bus-api
+      POSTGRES_PASSWORD: test
+      POSTGRES_HOST: db
+      POSTGRES_DB_NAME: bus-api
 
 volumes:
   go_cache:
