@@ -2,3 +2,13 @@ ingestion:
   gtfs:
     - name: Metro
       path: gtfs/metro/
+
+database:
+    driver: postgres
+    # Empty variables loaded using environment variables
+    username:
+    password:
+    host:
+    databaseName:
+    port: 5432
+    extraParams: ?sslmode=disable

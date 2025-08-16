@@ -4,6 +4,9 @@ services:
   bus-api:
     build: .
     container_name: bus-api
+    depends_on:
+      - db
+      - liquibase
     volumes:
       - .:/app        # Mount local source code
       - go_cache:/go  # Cache Go modules/builds to avoid redownloading

@@ -7,7 +7,8 @@ import (
 )
 
 type Config struct {
-	Ingestion Ingestion `mapstructure:"auth"`
+	Ingestion Ingestion      `mapstructure:"auth"`
+	DbConfig  DatabaseConfig `mapstructure:"database"`
 }
 
 type Ingestion struct {
@@ -17,6 +18,16 @@ type Ingestion struct {
 type GTFSIngestion struct {
 	Name string `mapstructure:"name"`
 	Path string `mapstructure:"path"`
+}
+
+type DatabaseConfig struct {
+	Driver       string `mapstructure:"driver"`
+	Username     string `mapstructure:"username"`
+	Password     string `mapstructure:"password"`
+	Host         string `mapstructure:"host"`
+	Port         int    `mapstructure:"port"`
+	DatabaseName string `mapstructure:"databaseName"`
+	ExtraParams  string `mapstructure:"extraParams"`
 }
 
 func InitConfig() (Config, error) {
